@@ -16,9 +16,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Start");
 
-        otherMethod();
-        System.exit(0);
-
         if (args.length != 1) {
             System.err.println("You must specify the path to the project properties file");
             System.exit(1);
@@ -40,6 +37,8 @@ public class Main {
             SteamService service = new SteamService(apiKey);
             List<SteamAchievement> achievementList = service.getAchievementList();
             System.out.println("Main.main(): achievementList = [" + achievementList + "]");
+
+            // TODO: Do something with achievements
         } catch (IOException e) {
             System.err.println("Error while reading properties file");
             System.err.println(e.getLocalizedMessage());
@@ -49,12 +48,5 @@ public class Main {
         }
 
         System.out.println("Done");
-    }
-
-
-    private static void otherMethod() {
-        Person.Builder personBuilder = new Person.Builder();
-        Person billy = personBuilder.build();
-        System.out.println("Main.otherMethod(): billy = [" + billy + "]");
     }
 }
