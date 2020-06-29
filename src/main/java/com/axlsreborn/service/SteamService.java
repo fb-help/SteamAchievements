@@ -20,25 +20,31 @@ import java.util.List;
 public class SteamService {
 
     private final SteamWebApiClient apiClient;
+    private final int               appID;
 
-    public SteamService(String apiKey) {
+
+    public SteamService(String apiKey, int appID) {
         apiClient = new SteamWebApiClient.SteamWebApiClientBuilder(apiKey).build();
+        this.appID = appID;
     }
 
     public List<SteamAchievement> getAchievementList() throws SteamApiException {
         List<SteamAchievement> achievementList = new ArrayList<>();
         GetGlobalAchievementPercentagesForAppRequest request =
-                SteamWebApiRequestFactory.createGetGlobalAchievementPercentagesForAppRequest(440);
-        GetGlobalAchievementPercentagesForApp getGlobalAchievements = apiClient.processRequest(request);
+                SteamWebApiRequestFactory.createGetGlobalAchievementPercentagesForAppRequest(appID);
+        GetGlobalAchievementPercentagesForApp getGlobalAchievements =
+                apiClient.processRequest(request);
 
         // GetSchemaForGame Request
-        GetSchemaForGameRequest request2 = SteamWebApiRequestFactory.createGetSchemaForGameRequest(440);
+        GetSchemaForGameRequest request2 =
+                SteamWebApiRequestFactory.createGetSchemaForGameRequest(appID);
         GetSchemaForGame getSchemaForGame = apiClient.processRequest(request2);
 
         // Gets Percentages from GetGlobalAchievementPercentagesForApp
-        Achievementpercentages achievementpercentages = getGlobalAchievements.getAchievementpercentages();
-        List<com.lukaspradel.steamapi.data.json.achievementpercentages.Achievement> globalAchievements =
-                achievementpercentages.getAchievements();
+        Achievementpercentages achievementpercentages =
+                getGlobalAchievements.getAchievementpercentages();
+        List<com.lukaspradel.steamapi.data.json.achievementpercentages.Achievement>
+                globalAchievements = achievementpercentages.getAchievements();
 
         // Gets Achievement Stats. displayname, description, icongray from getSchemaForGame.
         Game game = getSchemaForGame.getGame();
@@ -46,7 +52,7 @@ public class SteamService {
         List<Achievement> schemaAchievements = stats.getAchievements();
 
         // Create Linked Hash Map for iterating through globalAchievements.
-        LinkedHashMap<String, String> mapGlobalAchievements = new LinkedHashMap<String, String>();
+        LinkedHashMap<String, String> mapGlobalAchievements = new LinkedHashMap<>();
 
         // Loops through globalAchievements and stores names and percentages.  This will be used as reference to
         // get further data from schemaAchievements List
@@ -59,10 +65,12 @@ public class SteamService {
         for (Achievement schemaAchievement : schemaAchievements) {
             String name = schemaAchievement.getDisplayName();
             String description = schemaAchievement.getDescription();
-            double percent = Double.parseDouble(mapGlobalAchievements.get(schemaAchievement.getName()));
+            double percent =
+                    Double.parseDouble(mapGlobalAchievements.get(schemaAchievement.getName()));
             String imageUrl = schemaAchievement.getIcongray();
 
-            SteamAchievement achievement = new SteamAchievement(name, percent, description, imageUrl);
+            SteamAchievement achievement =
+                    new SteamAchievement(name, percent, description, imageUrl);
             achievementList.add(achievement);
         }
 

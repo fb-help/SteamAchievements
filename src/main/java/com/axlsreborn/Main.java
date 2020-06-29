@@ -12,6 +12,7 @@ import java.util.Properties;
 public class Main {
     //test
     public static final String KEY_STEAM_WEB_API_KEY = "steam.web.api_key";
+    public static final String ID_STEAM_APP          = "steam.app_id";
 
     public static void main(String[] args) {
         System.out.println("Start");
@@ -21,6 +22,7 @@ public class Main {
             System.exit(1);
         }
 
+        // Steam Web API Key and App ID File Input
         String propertiesPath = args[0];
         System.out.println("Main.main(): propertiesPath = [" + propertiesPath + "]");
         try {
@@ -28,13 +30,17 @@ public class Main {
             Properties properties = new Properties();
             properties.load(fileReader);
             String apiKey = properties.getProperty(KEY_STEAM_WEB_API_KEY);
+            String appID = properties.getProperty(ID_STEAM_APP);
+            int appIDInt = Integer.parseInt(appID);
             System.out.println("Main.main(): apiKey = [" + apiKey + "]");
+            System.out.println("Main.main(): appID = [" + appID + "]");
+
             if (apiKey == null) {
                 System.err.println("API Key is not defined in properties file");
                 System.err.printf("Expected key: [%s]\n", KEY_STEAM_WEB_API_KEY);
             }
 
-            SteamService service = new SteamService(apiKey);
+            SteamService service = new SteamService(apiKey, appIDInt);
             List<SteamAchievement> achievementList = service.getAchievementList();
             System.out.println("Main.main(): achievementList = [" + achievementList + "]");
 
