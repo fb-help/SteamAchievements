@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Properties;
 
 public class Main {
-
+    //test
     public static final String KEY_STEAM_WEB_API_KEY = "steam.web.api_key";
 
     public static void main(String[] args) {
