@@ -1,520 +1,1040 @@
 Head of the Class,15.100000381469727,Play a complete round with every class.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_play_game_everyclass_bw.jpg
+
 World Traveler,9.600000381469727,Play a complete game on 2Fort, Dustbowl, Granary, Gravel Pit, Hydro, and Well (CP).,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_play_game_everymap_bw.jpg
+
 Team Doctor,16.600000381469727,Accumulate 25000 heal points as a Medic.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_get_healpoints_bw.jpg
+
 Flamethrower,32.0,Set five enemies on fire in 30 seconds.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_burn_playersinminimumtime_bw.jpg
+
 Sentry Gunner,18.100000381469727,Accumulate 10 sentry gun kills with a single sentry.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_get_turretkills_bw.jpg
+
 Nemesis,32.400001525878906,Get five revenge kills.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_kill_nemesis_bw.jpg
+
 Hard to Kill,42.20000076293945,Get five kills in a row without dying.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_get_consecutivekills_nodeaths_bw.jpg
+
 Master of Disguise,25.399999618530273,Trick an opposing Medic into healing you.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_get_healed_byenemy_bw.jpg
+
 With Friends Like these...,9.5,Play in a game with 7 or more players from your Friends list.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_play_game_friendsonly_bw.jpg
+
 Dynasty,23.299999237060547,Win 20 games.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_win_multiplegames_bw.jpg
+
 Hardcore,17.399999618530273,Accumulate 1000 total kills.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_get_multiplekills_bw.jpg
+
 Grey Matter,22.600000381469727,Get 25 headshots as a Sniper.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_get_headshots_bw.jpg
+
 First Do No Harm,11.899999618530273,Play a full round without killing any enemies, and score the highest on a team of 6 or more players.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_top_scoreboard_bw.jpg
+
 Quadruple Bypass,19.299999237060547,Heal a teammate who's taking fire from 4 enemies at once.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_heal_under_fire_bw.jpg
+
 Group Health,10.899999618530273,Work with 2 other Medics to deploy 3 simultaneous ÜberCharges.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_simul_charge_bw.jpg
+
 Surgical Prep,21.5,Have an ÜberCharge ready before the Setup phase ends.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_setup_charge_bw.jpg
+
 Trauma Queen,17.200000762939453,Deploy 3 ÜberCharges in less than 5 minutes, and assist in 5 kills during that time.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_rapid_charge_bw.jpg
+
 Double Blind Trial,16.899999618530273,Deploy an ÜberCharge within 8 seconds of a nearby enemy Medic deploying his.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_counter_charge_bw.jpg
+
 Play Doctor,21.0,In a team with no Medics, be the first person to switch to Medic after a teammate calls for 'Medic!', and then heal 500 health.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_switch_to_medic_bw.jpg
+
 Triage,10.699999809265137,Deploy an ÜberCharge on a teammate less than a second before they're hit by a critical explosive.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_save_teammate_bw.jpg
+
 Preventive Medicine,12.0,Block the enemy from capturing a control point with an ÜberCharged teammate.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_charge_blocker_bw.jpg
+
 Consultation,11.0,Assist a fellow Medic in killing 3 enemies in a single life.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_assist_medic_bw.jpg
+
 Does It Hurt When I Do This?,8.800000190734863,Kill 50 Scouts with your syringe gun.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_syringe_scouts_bw.jpg
+
 Peer Review,9.800000190734863,Kill 10 Medics with your bone saw.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_bonesaw_medics_bw.jpg
+
 Big Pharma,12.100000381469727,Assist a Heavy in killing 10 enemies, where neither of you die.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_assist_heavy_long_bw.jpg
+
 You'll Feel a Little Prick,9.0,Assist in killing 3 enemies with a single ÜberCharge on a Scout.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_assist_scout_bw.jpg
+
 Autoclave,10.600000381469727,Assist in burning 5 enemies with a single ÜberCharge on a Pyro.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/b2790e60c1a024e2ef598069cd98607c574f3b4b.jpg
+
 Blunt Trauma,9.100000381469727,Assist in punching 2 enemies with a single ÜberCharge on a Heavy.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_assist_heavy_bw.jpg
+
 Medical Breakthrough,8.5,Assist in destroying 5 enemy Engineer buildings with a single ÜberCharge on a Demoman.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_assist_demoman_bw.jpg
+
 Midwife Crisis,19.200000762939453,Heal an Engineer as he repairs his sentry gun while it's under enemy fire.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_heal_engineer_bw.jpg
+
 Ubi concordia, ibi victoria,10.100000381469727,Assist in killing 3 enemies on an enemy control point, in a single life.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_assist_capturer_bw.jpg
+
 Grand Rounds,11.600000381469727,Heal 200 teammates after they've called for 'Medic!'.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_heal_callers_bw.jpg
+
 Powerhouse Offense,22.0,Win 2Fort with a shutout.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_win_2fort_noenemycaps_bw.jpg
+
 Lightning Offense,13.899999618530273,Win Well in 5 minutes or less.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_win_well_minimumtime_bw.jpg
+
 Relentless Offense,11.199999809265137,Win Hydro without giving up a capture.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_win_hydro_noenemycaps_bw.jpg
+
 Impenetrable Defense,14.100000381469727,Successfully defend Dustbowl without giving up a capture.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_win_dustbowl_noenemycaps_bw.jpg
+
 Impossible Defense,11.5,Successfully defend Gravel Pit without giving up a capture.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_win_gravelpit_noenemycaps_bw.jpg
+
 Infernal Medicine,11.199999809265137,Extinguish 100 burning teammates.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_extinguish_teammates_bw.jpg
+
 Doctor Assisted Homicide,9.199999809265137,Assist in killing 20 nemeses.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_assist_vs_nemeses_bw.jpg
+
 Placebo Effect,11.899999618530273,Kill 2 enemies in a single life, while having your ÜberCharge ready, but undeployed.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_kill_while_charged_bw.jpg
+
 Sawbones,12.300000190734863,Hit enemies with your bonesaw 5 times in a row without dying or missing.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d235dc957f30655b561b96dd091b894644af25c0.jpg
+
 Intern,8.800000190734863,Accumulate 7000 heal points in a single life.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_heal_large_bw.jpg
+
 Specialist,7.900000095367432,Accumulate 10000 heal points health in a single life.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_heal_huge_bw.jpg
+
 Chief of Staff,7.5,Accumulate 1 million total heal points.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_heal_grind_bw.jpg
+
 Hypocritical Oath,13.600000381469727,Kill an enemy Spy that you have been healing.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_kill_healed_spy_bw.jpg
+
 Medical Intervention,10.399999618530273,Save a falling teammate from dying on impact.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_save_falling_teammate_bw.jpg
+
 Second Opinion,10.100000381469727,ÜberCharge 2 teammates at once.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_charge_juggle_bw.jpg
+
 Autopsy Report,10.199999809265137,Provide an enemy with a freezecam shot of you taunting above their ragdoll.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_freezecam_ragdoll_bw.jpg
+
 FYI I am A Medic,10.699999809265137,Use your bonesaw to kill a spy who has been calling for 'Medic!'.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_bonesaw_spy_callers_bw.jpg
+
 Family Practice,8.399999618530273,ÜberCharge 5 of your Steam Community Friends.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_charge_friends_bw.jpg
+
 House Call,15.800000190734863,Join a game that one of your friends is in and then deploy an ÜberCharge on him.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_invite_join_charge_bw.jpg
+
 Bedside Manner,20.299999237060547,Be healing a teammate as he achieves an achievement of his own.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_heal_achiever_bw.jpg
+
 Blast Assist,9.100000381469727,Assist in exploding 5 enemies with a single ÜberCharge on a Soldier.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_medic_assist_soldier_bw.jpg
+
 Medic Milestone 1,15.199999809265137,Achieve 10 of the achievements in the Medic pack.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/2d675205e08474d7d2f3605b8f31ae0ed2baf369.jpg
+
 Medic Milestone 2,13.199999809265137,Achieve 16 of the achievements in the Medic pack.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/494b8d62b6406783daf66ad64b9e469f873e7483.jpg
+
 Medic Milestone 3,12.100000381469727,Achieve 22 of the achievements in the Medic pack.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/51544bec4f19351613119a2b74af91e1909c8931.jpg
+
 Combined Fire,9.800000190734863,Use your shotgun to finish off 20 players you've ignited.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/e1be8bc4fca7b406fccce3c80975f11d04a2f961.jpg
+
 Weenie Roast,24.5,Have 2 enemy Scouts on fire at the same time.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/7fb6255772cef4c1d852a7fd0548f033d4b3c777.jpg
+
 Baptism by Fire,13.600000381469727,Force 10 burning enemies to jump into water.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/905f8d39fd06c9627faf6bf426557352ab902ed7.jpg
+
 Fire and Forget,16.700000762939453,Kill 15 players while you're dead.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/a5ae389e2515af73030fdd231a8399aef91a71bc.jpg
+
 Firewall,11.899999618530273,Ignite 5 Spies who have a sapper on a friendly building.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/daed6e37660b12053ea7fa9321998355c671798d.jpg
+
 Cooking the Books,13.100000381469727,Ignite 5 enemies carrying your intelligence.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/f9f47ff3e4e70ca2b323643e369f6ea946b69b8e.jpg
+
 Spontaneous Combustion,19.5,Ignite 10 cloaked Spies.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d41502c62f290dd011d9b00225140ab7e7c58d68.jpg
+
 Trailblazer,13.0,Ignite 10 enemies that have recently used a teleporter.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/911c5307a9b16ab3f256c72c0a47e078ba97a24e.jpg
+
 Camp Fire,34.70000076293945,Kill 3 enemies in a row, all within the same area.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/f6f76d07281684d4c04c21ac685000c12fe88ce0.jpg
+
 Lumberjack,14.100000381469727,Kill 3 people with your axe in one life.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/2a9bbe4b39680be1b2720d8ee2b441d234603084.jpg
+
 Clearcutter,11.800000190734863,Kill 6 people with your axe in one life.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/84ba60e80daef936246d53162702220bd521881a.jpg
+
 I Fry,19.899999618530273,Ignite 10 disguised Spies.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/7306eac0fdcba244b9084879f82c89fed7fc3ae1.jpg
+
 Firewatch,15.0,Ignite 10 Snipers while they are zoomed in.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/212a92733def907031c3969f680638bdd7f0baed.jpg
+
 Burn Ward,17.5,Ignite 3 Medics that are ready to deploy an ÜberCharge.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ccb2d441db3aad0269459d012e7996d9814b03aa.jpg
+
 Makin' Bacon,9.199999809265137,Kill 50 Heavies with your flamethrower.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c13f90d6337a3a3f0066916e94185dcbf75677ee.jpg
+
 Plan B,8.899999618530273,Kill 10 enemies while you're both underwater.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/0751a92fe6c9fdfbccd0d570e35d47b36b69a17d.jpg
+
 Pyrotechnics,12.800000190734863,Kill 3 enemies in a single ÜberCharge.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/9a5bf44ce682e672d6c628ddea13972614768594.jpg
+
 Arsonist,11.300000190734863,Destroy 50 Engineer buildings.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ef0aacdcba94d518790230a1b5dcf78481ff7317.jpg
+
 Controlled Burn,11.0,Ignite 50 enemies capturing one of your control points.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/96d465c06a625bc80e92289066fde1fc77de96ae.jpg
+
 Firefighter,13.100000381469727,Kill 500 enemies.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/8c9aae232ceee40f44685ad6e012cb40ea999565.jpg
+
 Pyromancer,7.300000190734863,Do 1 million points of total fire damage.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/1641c7d94daa59859094e78d6e61298ad127fbac.jpg
+
 OMGWTFBBQ,13.600000381469727,Kill an enemy with a taunt.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/9791ac4d14cf8ed5a763c1c00755ab20d79854d4.jpg
+
 Got A Light?,9.399999618530273,Ignite an enemy Spy while he's flicking a cigarette.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/4f244b30a76e9de5287a82cc3829c7930baa38c7.jpg
+
 BarbeQueQ,18.0,Cause a dominated player to leave the server.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c89aaf25155ab8a78d436e935823b8b17c147660.jpg
+
 Dance Dance Immolation,11.600000381469727,Kill 3 enemies while they're taunting.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/81a0db8106bb2bb04f7a01218d50a01878c46b5f.jpg
+
 Pilot Light,20.200000762939453,Ignite a rocket-jumping Soldier while he's in midair.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/f61da5ee7db3f110e692f282623b9d17604282dd.jpg
+
 Freezer Burn,11.600000381469727,Provide enemies with freezecam shots of each of your taunts.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/8c3ea159df7f2f94581443bcf74c982b6ad130c7.jpg
+
 Next of Kindling,31.399999618530273,Ignite an enemy, and the Medic healing him.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/52beb2b5872b8bcaa03ec2ae404feb9214ed04fd.jpg
+
 Hot on Your Heels,14.800000190734863,Kill 50 enemies with your flamethrower, from behind.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/318fc6217afafaabb74481236f15ce98cc1bae07.jpg
+
 Second Degree Burn,29.600000381469727,Kill a burning enemy who was ignited by another Pyro.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/2408a0f972953a591a1134751cbd9ad9283da723.jpg
+
 Hotshot,13.899999618530273,Kill a Soldier with a reflected critical rocket.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/1b745b2cee5f4bc9a6a661f37a2f1c23d09a48e1.jpg
+
 Fire Chief,10.899999618530273,Kill 1000 enemies.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/4eb6e08e5856f1b641be529b723d15df72f5a20d.jpg
+
 Attention Getter,12.600000381469727,Ignite 100 enemies with the flare gun.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/f3661c6e7d7fd647bfa4a251a3a62d82df6cf7fb.jpg
+
 Hot Potato,11.399999618530273,Reflect 100 projectiles with your compressed air blast.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/8d9c7d2f598a62de7775c95338ee5570d79268c8.jpg
+
 Dead Heat,29.399999618530273,Kill an enemy in the same second that he kills you.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ec6f89035a26a2799163c9f99c6198633790591e.jpg
+
 Pyro Milestone 1,19.299999237060547,Achieve 10 of the achievements in the Pyro pack.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/073fc2c96d32b08d87540bb47981da0398278c13.jpg
+
 Pyro Milestone 2,16.399999618530273,Achieve 16 of the achievements in the Pyro pack.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/60dc06b26a1a5427dc5ca04c598c342ee0ede797.jpg
+
 Pyro Milestone 3,14.5,Achieve 22 of the achievements in the Pyro pack.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/a896644b41e2db2a13192fc9c642ec154f69a870.jpg
+
 Heavy Milestone 1,16.700000762939453,Achieve 10 of the achievements in the Heavy pack.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/0223ef1859de91775ab25eeb83137ca7e64c7b6d.jpg
+
 Heavy Milestone 2,14.199999809265137,Achieve 16 of the achievements in the Heavy pack.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/1a1602da1aaf5f5aed8d78da87f85ce355b44b17.jpg
+
 Heavy Milestone 3,12.699999809265137,Achieve 22 of the achievements in the Heavy pack.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/0818c70ae42adb38caefbe0c2bc69e0720e7d6b1.jpg
+
 Iron Kurtain,45.70000076293945,Take 1000 points of damage in a single life.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c982e0891f5bf5bdfb01be55972fdbe25e1cbd61.jpg
+
 Party Loyalty,8.699999809265137,Kill 50 enemies within 3 seconds of them attacking your Medic.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/31f33ee67948a6be8fc6b20e521e48bea24af82c.jpg
+
 Division of Labor,11.600000381469727,Kill 10 enemies with a Medic assisting you, where neither of you die.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/847aa985ffb6b03d9fed73b3f866195070f0a6fe.jpg
+
 Red Oktoberfest,18.399999618530273,Earn a domination for a Medic who's healing you.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/e4fab565b0063e29b474897f9690b73374b6cbfa.jpg
+
 Show Trial,12.800000190734863,Kill an enemy with a taunt.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/aa47f7d16432db5036d7b9125c3e1c4c83720fe8.jpg
+
 Crime and Punishment,8.100000381469727,Kill 10 enemies carrying your intelligence.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d970ef038c5ca4c0a362280d85794bad680b890c.jpg
+
 Class Struggle,10.399999618530273,Work with a friendly Medic to kill an enemy Heavy & Medic pair.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ddc1d0e7c40d0aafe425229435e9a142626fe281.jpg
+
 Soviet Block,8.600000381469727,While invulnerable and on defense, block an invulnerable enemy Heavy's movement.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/5aaaded4bb5bb4faee0730ae1387e6160d130bbb.jpg
+
 Stalin the Kart,8.699999809265137,Block the enemy from moving the payload cart 25 times.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d4ffeebcb4c9d1d89394ddb97e894af06d31ed9a.jpg
+
 Supreme Soviet,10.699999809265137,Get ÜberCharged 50 times.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/14428d20580859d5a36a822e78b8d3dda41bcf42.jpg
+
 Factory Worker,11.0,Kill 20 enemies while being recharged by a dispenser.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/56b36e1a6f5a090ad42a11b65cf4a20462aee5dc.jpg
+
 Soviet Union,13.399999618530273,Get 25 enemy kills where you either assist or are assisted by another Heavy.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/6875f1e7a22b84b21fcfb853ea34f965cb19c4be.jpg
+
 0wn the Means of Production,12.699999809265137,Remove 20 stickybombs by killing the Demomen who produced them.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/2f34b47fd473c0eea429a23eb58e27ce725164f7.jpg
+
 Krazy Ivan,7.5,Kill 50 enemies while both you and your victim are underwater.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/34b787ce4e47ef0e206ecd52626b053da13e18c4.jpg
+
 Rasputin,28.899999618530273,In a single life, get shot, burned, bludgeoned, and receive explosive damage.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/5e949e6a19ae901836ec243adcf4f925a0ef1240.jpg
+
 Icing on the Cake,13.600000381469727,Get 20 kills on players that you're dominating.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/8539b28b36ffc69476f0dd08daa086f17a4f9037.jpg
+
 Crock Block,20.399999618530273,Survive a direct hit from a critical rocket.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/0b397d465f83cf17c6f67ace66a504e82a946cfb.jpg
+
 Kollectivization,7.800000190734863,Get 1000 assists.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/a527a3a25c699011befc0aa9aa4d44b3e7fd43f0.jpg
+
 Spyalectical Materialism,13.600000381469727,Kill or assist in killing 10 cloaked Spies.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/e0dd4bd3a147be78420e6a82f011a8f5fe2f3c4e.jpg
+
 Permanent Revolution,17.799999237060547,Kill 5 enemies without spinning down your gun.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/1514116037395cc722640d071a0e3f13994c718c.jpg
+
 Heavy Industry,14.199999809265137,Fire $200,000 worth of minigun rounds in a single life.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/354f14a8e7368be6e5a014d53a2b88a0b19f46a0.jpg
+
 Communist Mani-Fisto,18.200000762939453,Kill an enemy with a critical punch.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d0b1c10ece49201fbac2ee35cece320d75b517ee.jpg
+
 Redistribution of Health,10.300000190734863,Heal 1000 damage with med-kits in a single life.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/bd63a21bf0d49e5227e3e31b71b139dcbf3506d2.jpg
+
 Rationing,15.800000190734863,Kill an enemy with your shotgun while you're out of minigun ammo.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/899028390313c6a31ed8d81652507e66438ce862.jpg
+
 Vanguard Party,20.399999618530273,Be the first on your team to start capturing a control point in a round.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c2abd229eb67bf9a0d53d20af094fec4331be9a0.jpg
+
 Pushkin the Kart,9.800000190734863,Get 50 caps on payload maps.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/680de0d44b08e2bd938831a8b07cc059e9a6e2f1.jpg
+
 Marxman,29.799999237060547,Kill 10 enemies in mid-air with the minigun.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d7e01ff5e6f3896fa362aa1701fa7d068eeaa6af.jpg
+
 Gorky Parked,9.5,Kill 25 enemies while you're standing on a control point you own.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/60960eae646747412c3867db93b0d1076e4fc609.jpg
+
 Purge,10.199999809265137,Kill 15 enemies capturing a control point you own.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/5c6c01b8de77e6ed425b96385164aced1a949ed7.jpg
+
 Lenin A Hand,13.300000190734863,Help 5 teammates get revenge on their nemeses.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c060a7d6d2523c2f7b775aba9e3a8978c29d0104.jpg
+
 Five Second Plan,14.600000381469727,Kill an enemy in the first 5 seconds after you exit a teleporter.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/95ab9ca37a3c85b74ac09aab5f5519d687891106.jpg
+
 Photostroika,8.600000381469727,Provide an enemy with a freezecam shot of you taunting while invulnerable.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/73754672f3dc7543f645545ffd73e90f42c8d779.jpg
+
 Konspicuous Konsumption,9.600000381469727,Eat 100 sandviches.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/dafdac19dd04083d76cd68adfaffbdcb6415efa5.jpg
+
 Don't Touch Sandvich,8.5,Kill 50 Scouts using Natascha.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/cf97220635537efcc9b59e7394a03cb4cb8dca9c.jpg
+
 Borscht Belt,8.199999809265137,Kill 10 Heavies with The K.G.B.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/eaf97b4d0d1939f60fa805e6c3b9604c39a3b0bf.jpg
+
 First Blood,10.0,Get the first kill in an Arena or Competitive match.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/4e5c0c8b26d39662541a8df12ac8412eef2ca8c4.jpg
+
 First Blood, Part 2,8.100000381469727,Kill 5 enemies with the First Blood crit buff in an Arena match.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/5a24d33dd1472479dcdd37495d5f2fde5584c5d1.jpg
+
 Quick Hook,8.800000190734863,Kill a player in Well before the round starts.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/476d88a78ca1c007581a4ca750e8cf0e61ab2c1d.jpg
+
 A Year to Remember,8.5,Get 2004 lifetime kills.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/70ac5536184a497d5471cf7518ad72efbc7e9038.jpg
+
 The Cycle,10.600000381469727,In a single life, kill an enemy while you are on the ground, in the air, and in the water.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/feac0b572856f28ab0f1a393c5906ac3ace2b41a.jpg
+
 Closer,13.100000381469727,Destroy 3 teleporter entrances.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/f9d2d22263a4dda1d18889e609b1ccd313e84133.jpg
+
 If You Build It,14.300000190734863,Destroy 3 enemy buildings while they are still under construction.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/0a08f0d9bb4fb707992f04e9e2352bc2ded5c2e7.jpg
+
 Gun Down,13.800000190734863,Destroy an active sentry gun using your pistol.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/60c32620a6c11fd3217b922544172f3fee40b43d.jpg
+
 Scout Milestone 1,15.100000381469727,Achieve 10 of the achievements in the Scout pack.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/9768a9f1730b2bcafb28dc5e2a44aa893204bb2c.jpg
+
 Scout Milestone 2,13.399999618530273,Achieve 16 of the achievements in the Scout pack.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/92b9886e58c1a7cb7667baba924f20620b42d9b5.jpg
+
 Scout Milestone 3,12.199999809265137,Achieve 22 of the achievements in the Scout pack.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/821f74eb3fd94e240902aa924d40d9238eeef074.jpg
+
 Batter Up,14.199999809265137,Perform 1000 double jumps.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/81d9a28f9d8888f6e2a79a2dd584200d98b4539b.jpg
+
 Doctoring the Ball,9.0,Kill 3 enemies while under the effects of a Medic's ÜberCharge.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/4fb8fd6b554ae662c1dce2ed626017aeef55e17d.jpg
+
 Dodgers 1, Giants 0,11.800000190734863,Kill an enemy Heavy and take his Sandvich.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c3417b6fdaf258f35a8484bceb10607c0995884e.jpg
+
 Batting the Doctor,15.399999618530273,Kill a Medic that is ready to deploy an ÜberCharge.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/6f60c7d1d5ecb4f3eb51179670ab054b37b49ed0.jpg
+
 I'm Bat Man,19.700000762939453,Survive 500 damage in one life.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/86494ca645f0d4c167f8dd847dde911e6a3a822d.jpg
+
 Pop Fly,10.600000381469727,Kill 20 players while double-jumping.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/1d755485e5f744e44ef39daed625a9c59bc67887.jpg
+
 Round-Tripper,10.699999809265137,Capture the enemy intelligence 25 times.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/bb6e9099e29244f656819136ae11ce9fa3d5da15.jpg
+
 Triple Steal,13.800000190734863,Capture the enemy intelligence 3 times in a single CTF round.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/00b875a0d37242fedd8a9dbbf40453f615f2464f.jpg
+
 Artful Dodger,11.399999618530273,Dodge 1000 damage in a single life using your Bonk! Atomic Punch.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/3ca7ebd5c199674dde054beff5f8d907211a5750.jpg
+
 Fall Classic,12.800000190734863,Cause an environmental death or suicide using the Force-A-Nature's knockback.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c54422d29d44e810e3e57848c2883cb9f543e110.jpg
+
 Strike Zone,8.600000381469727,Kill or assist kill 50 enemies while they are stunned.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/9d0c04bbea075c47ba430852b18c09a124442f23.jpg
+
 Foul Territory,9.399999618530273,Cause an environmental death by stunning an enemy.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/158cc2fa6af4a21ef743df9e8de259bf6ee6bdb3.jpg
+
 The Big Hurt,9.899999618530273,Stun 2 Medics that are ready to deploy an ÜberCharge.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/3db864d73dcbdce2d9138f1a34d5e49e87b279f3.jpg
+
 Brushback,7.900000095367432,Stun 50 enemies while they are capturing a point or pushing the cart.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ad242458993ded10c642a39f80b5de0b0fda8f84.jpg
+
 Moon Shot,10.699999809265137,Stun an enemy for the maximum possible duration by hitting them with a long-range ball.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/83a1de190d86b00982a88bf29948ac333948339f.jpg
+
 Beanball,9.899999618530273,Stun a Scout with their own ball.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/1f5c5a08da3827ed4bd16c967c77274ccd7f6c04.jpg
+
 Retire the Runner,12.399999618530273,Kill a Scout while they are under the effect of Crit-a-Cola.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/bf9064161dbfc0845f97d6f8af04f7dc37eb4540.jpg
+
 Caught Napping,9.800000190734863,Kill 50 enemies from behind with the Force-A-Nature.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/3696a25a16e8b7c017535b04ab0735b52e8a7bcd.jpg
+
 Side Retired,18.700000762939453,Capture the last point in a CP map.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/88bedf28e017457209b7a4deaaa3777507a24b2b.jpg
+
 Triple Play,13.0,Capture three capture points in a row in one life.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/3a2507203fc37035f19d102b20f5b358d115fb84.jpg
+
 Stealing Home,14.300000190734863,Start capping a capture point within a second of it becoming available.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/7b88631dd679b5e41074024c00e310ddc28e4d19.jpg
+
 Set the Table,14.100000381469727,Initiate 10 point captures that ultimately succeed.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/2cdabc20afddf3b3a82205702e3e06e1d6d5ba68.jpg
+
 Block the Plate,8.399999618530273,Block 50 point captures.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/00dada32c0ddecdfd0ed8e951588c02b1b6c5c61.jpg
+
 Belittled Beleaguer,12.300000190734863,Kill an opposing player that has your intelligence while holding theirs.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d70ea11c19702c4bf175dbd32e94b2c10cb536ff.jpg
+
 No-Hitter,18.5,Steal and then capture the enemy intelligence without firing a shot.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/1eeb165bc23e84dc3c30a7bbe56ad1e7bf4abad1.jpg
+
 Race for the Pennant,55.099998474121094,Run 25 kilometers.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c93545f2c266ad71e30fcd18051f607431d39714.jpg
+
 Out of the Park,10.699999809265137,Bat an enemy 25 meters.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/6195a83fe120970d0246395a418accb9f5a7cbb8.jpg
+
 Rode Hard, Put Away Wet,12.699999809265137,Jarate an enemy that you're dominating.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/35dbea158f4fc5ea27e2909f7dca53e36773ee30.jpg
+
 Be Polite,11.899999618530273,Provide an enemy with a freezecam shot of you doffing your hat.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/db69ceb1454b87a5601fb533446d537bf3683d78.jpg
+
 Be Efficient,27.899999618530273,Get 3 kills with the Sniper Rifle without missing a shot.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/1d8a49fadb2e336a9eac511c329b68e7c27f6d52.jpg
+
 Have a Plan,13.699999809265137,Capture the flag in CTF.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/6448065d60f0be17e5adc7105db6abfd1484144a.jpg
+
 Kill Everyone You Meet,10.199999809265137,Kill 1000 enemies.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/cb39aaecb4c607c9027bfeacfe098f8295f98915.jpg
+
 Triple Prey,25.600000381469727,In a single round, get a kill with 3 different weapons.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/9d38f32c1ecf8ff90f2eca095f8bb1d152f20937.jpg
+
 Self-destruct Sequence,21.399999618530273,Headshot 10 enemy Snipers.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c1b7dd76132857fa069345bd181d754297db9b58.jpg
+
 De-sentry-lized,20.0,Destroy 3 Engineer sentry guns.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/02f3042d0d29116050bc630e51583704d68b6d84.jpg
+
 Shoot the Breeze,22.700000762939453,Kill a fully invisible Spy in a single hit.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/e9c9ca8cdb7449590f16f8d110c2cc72c96fdc30.jpg
+
 Dropped Dead,30.399999618530273,Kill a Scout in midair with your Sniper Rifle or the Huntsman.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/7be50a6e7c96737b1a719153f73cd018858a49af.jpg
+
 The Last Wave,12.899999618530273,Provide an enemy with a freezecam shot of you waving to them.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/3f03bd55e347e74957924d06b8ec152a65bd9ecf.jpg
+
 Australian Rules,21.5,Dominate an enemy Sniper.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/a32d9810f95dbf1bb455f7a7a514ee8efadb34dd.jpg
+
 Kook the Spook,12.699999809265137,Kill 10 Spies with your Kukri.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/a0f62037e8e803d22a0f2eeaf35ddc5d3c03bfea.jpg
+
 Socket to Him,27.700000762939453,Headshot an enemy Demoman.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/7b164c64b67d20dfdb4b5d5046956dbdc31c6a3e.jpg
+
 Jumper Stumper,16.399999618530273,Kill a rocket or grenade-jumping enemy in midair with your Sniper Rifle or the Huntsman.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/945822b6a900b095d0bfd82c211f738d379e3357.jpg
+
 Not a Crazed Gunman, Dad,11.0,In a single life, kill 3 enemies while they are achieving an objective.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d252cb2d1483c2ff2351881e152efa93bdcf17e9.jpg
+
 Trust Your Feelings,17.100000381469727,Get 5 kills with the Sniper Rifle without your scope.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/2b498b9c45c4d9f60fc9772429c400332d905617.jpg
+
 Überectomy,18.100000381469727,Kill a Medic that is ready to deploy an ÜberCharge.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/dccf0521c85daf0c555b9a1b8e6dfadb18c4c4c3.jpg
+
 Consolation Prize,11.800000190734863,Get backstabbed 50 times.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/cd26eef20ef38617e7cc4639275735c7c295cb69.jpg
+
 Enemy at the Gate,20.600000381469727,Kill an opponent within the first second of a round.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/4c9c2837648df928a14dc150098830c7323ea760.jpg
+
 Parting Shot,12.100000381469727,Headshot an enemy player the moment his invulnerability wears off.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/5461397419a4d81a91bfa962ce3f8aed8844e285.jpg
+
 My Brilliant Career,8.699999809265137,Top the scoreboard 10 times on teams of 6 or more players.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/06cd459cde9ee2680c8bef37c79e3dea4dfc4eaa.jpg
+
 Shock Treatment,11.899999618530273,Kill a spy whose backstab attempt was blocked by your Razorback.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/4286a24b0079a1fb8e7d5eb98beafbf279e46056.jpg
+
 Saturation Bombing,11.399999618530273,Jarate 4 enemy players with a single throw.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/595ddd70a81f537ef82cd4ada176f1359cf00c2b.jpg
+
 Rain on Their Parade,12.5,Jarate an enemy and the Medic healing him.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/41cdddf256e699add7bbae775fe77e459cc9ecd6.jpg
+
 Jarring Transition,13.100000381469727,Use Jarate to reveal a cloaked Spy.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ce328168d8a1e2208b2f8e41e52750861c8501d9.jpg
+
 Friendship is Golden,13.699999809265137,Extinguish a burning teammate with your Jarate.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/0da5df8417fb2b12eb7379c87fd4bfd462565162.jpg
+
 William Tell Overkill,12.600000381469727,Pin an enemy Heavy to the wall via his head.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/6f33723654ee488cfe61817b77d470ab1403da35.jpg
+
 Beaux and Arrows,9.100000381469727,Kill a Heavy & Medic pair with the bow.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/8b18f10c28650b8d1494de00a07a49afbe46e645.jpg
+
 Robbin' Hood,11.100000381469727,Take down an intelligence carrier with a single arrow.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/149c3c54e21101d311b85062ec5acee59aee589a.jpg
+
 Pincushion,15.699999809265137,Hit an enemy with 3 arrows, without killing them.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/6dce0b2156ebd8a4aa4ff6efc539d68065218752.jpg
+
 Number One Assistant,9.600000381469727,Score 5 assists with the Jarate in a single round.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/23d17699c35a31563ce1be6f0ad821e0f8c7eb21.jpg
+
 Jarate Chop,9.0,Jarate and then kill 3 enemies with your Kukri.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ea51bedc20250150f866fbef06b3df220ac90dac.jpg
+
 Shafted,12.5,Stab an enemy with an arrow.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/422b5700e779ba6b8e748a499a1ad69617345e45.jpg
+
 Dead Reckoning,20.200000762939453,Kill an enemy with an arrow while you're dead.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/93c4680560e79c724e330465709201ece6de74ce.jpg
+
 Triplecrossed,14.100000381469727,Backstab 3 Snipers in a single life.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/58321326ca99feb93923104622c8315d80286fa6.jpg
+
 For Your Eyes Only,9.0,Provide an enemy with a freezecam shot of you flicking a cigarette onto their corpse.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/9f6391b4f2ee3fc65fb02f63ab4a6d4f9930ca41.jpg
+
 Counter Espionage,17.200000762939453,Backstab a disguised Spy.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/8e5d2e7506435723314046bffc20f995a006aeb4.jpg
+
 Identity Theft,20.700000762939453,Backstab the enemy that you're currently disguised as.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/8b1e7d4f7bc1f4caa42e4a3ce050d81114a6fbcc.jpg
+
 The Man from P.U.N.C.T.U.R.E.,12.399999618530273,Stab an enemy while fencing.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/4ed35cfccfb4f5b396f635020cccd408e0f09cec.jpg
+
 FYI I am a Spy,13.899999618530273,Backstab a Medic who has healed you in the last 5 seconds.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/f4fba389318e8be6ad05d9db524c4b5a85aa595d.jpg
+
 The Man with the Broken Guns,10.300000190734863,Backstab an Engineer, then sap 3 of his buildings within 10 seconds.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/34736414a3394a92e1e242b608e14cb7b43c2a08.jpg
+
 Sapsucker,14.600000381469727,Sap an enemy building, then backstab the Engineer who built it within 5 seconds.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/a9a209bb97b14d1244f12ce66f1249c5c9ac24e8.jpg
+
 May I Cut In?,13.699999809265137,Backstab an enemy and the Medic healing him within 10 seconds of each other.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/50b0b7d952355371ab16f6a2a881d2658e8a8f31.jpg
+
 Agent Provocateur,10.100000381469727,Backstab your Steam Community friends 10 times.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/e2ce341ed71c042b00e9ffd44fd6cfab25b5e80a.jpg
+
 The Melbourne Supremacy,15.0,Dominate a Sniper.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/5e988dacc553a3ec3224a5ace6e770558b436d1b.jpg
+
 Spies Like Us,26.700000762939453,While cloaked, bump into an enemy cloaked Spy.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/034e9b3305abccb1b69af2e0b577f32931171bec.jpg
+
 A Cut Above,19.100000381469727,Kill a gun-wielding Spy with your knife.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/1658425c1a3221b4efdc17dbd8f8b25ba5eac726.jpg
+
 Burn Notice,22.200000762939453,Survive 30 seconds after being ignited while cloaked.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/6f04a9327032259accf0e058daa343bf4d13b5d5.jpg
+
 Die Another Way,14.600000381469727,Kill a Sniper after your backstab breaks his Razorback.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/5eb946c02f2e981573410c972afa6f70843ff2d0.jpg
+
 Constructus Interruptus,18.399999618530273,Kill an Engineer who is working on a sentry gun.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/b1679514c39e006dc23d2f0b4e8e99a187f45b23.jpg
+
 On Her Majesty's Secret Surface,11.800000190734863,Start capping a capture point within a second of it becoming available.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/b3e3dddbadd5c06537a30efac9d5038a9c6d4899.jpg
+
 Insurance Fraud,12.399999618530273,Kill an enemy while you're being healed by an enemy Medic.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c700164e7bd86c21511271435f498ddd7f3508db.jpg
+
 Point Breaker,9.800000190734863,Kill 15 enemies who are standing on a control point they own.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/afb39a9aa1c682c0d920da9db3028c91551d7e7b.jpg
+
 High Value Target,16.899999618530273,Backstab an enemy who is dominating 3 or more of your teammates.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/699f4f245df64217cf52aac9665d94551f92779c.jpg
+
 Come in From the Cold,20.100000381469727,Get a Revenge kill with a backstab.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/954fd99a184f083df200f1d32796ee4f0599b0b4.jpg
+
 Wetwork,13.300000190734863,Stab an enemy to death while under the influence of Jarate.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d29db94cf35692259316afe7be89113335c09194.jpg
+
 You Only Shiv Thrice,21.899999618530273,Backstab 3 enemies within 10 seconds.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/fbcb7b80e90bffb8f549bb6b3288c32697ddea0c.jpg
+
 Spymaster,8.699999809265137,Backstab 1000 enemies.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d9f6caa0cbdf04d4bb6986d1ea4955628e48f944.jpg
+
 Sap Auteur,7.699999809265137,Destroy 1000 Engineer buildings with sappers.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/b743baad26760f8bf4489ff6db233432889725ad.jpg
+
 Joint Operation,12.5,Sap an enemy sentry gun within 3 seconds of a teammate sapping another.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/1d18ab18da476e864677065144a441294ef755e1.jpg
+
 Dr. Nooooo,15.699999809265137,Backstab a Medic that is ready to deploy an ÜberCharge.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/39fd8b447aab761eb85cd42020add5c0de4a59cc.jpg
+
 Is It Safe?,8.699999809265137,Backstab 50 enemies who are capturing control points.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/63c3d8fc77d2f3baaf99dff42d67e44915c347ad.jpg
+
 Slash and Burn,19.600000381469727,Backstab an enemy, who then switches to Pyro before they respawn.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/1ede3bd30851691e45eb4b74f48046be077a8283.jpg
+
 Diplomacy,10.399999618530273,Kill 50 enemies with the Ambassador.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/2a4bed59e8824585d44c14f7ce4139d7b4eaac31.jpg
+
 Skullpluggery,8.399999618530273,Headshot 20 Snipers with the Ambassador.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/17a27fe45fd37d890ed32b8d600393a43446870e.jpg
+
 Sleeper Agent,14.199999809265137,Kill an enemy who triggered your feign death in the last 20 seconds.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/9b309256e37710553532324e4e6a90091f4f3bb9.jpg
+
 Who's Your Daddy?,10.399999618530273,Headshot 3 Scouts with the Ambassador.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/23b85fdfb3aa4054545d674495755265c5ef5512.jpg
+
 Deep Undercover,12.600000381469727,While using the Cloak and Dagger, kill the same enemy 3 times, all within the same area in a single life.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/8a8aabb6d532be1f98c9fbfccd4f206125f65a1f.jpg
+
 Sniper Milestone 1,25.799999237060547,Achieve 5 of the achievements in the Sniper pack.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/dd79ab78ad877534a53c2a1fd3a7cbdf2c4a6347.jpg
+
 Sniper Milestone 2,19.899999618530273,Achieve 11 of the achievements in the Sniper pack.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/339adad051074993ab2f42a1cf7eeb23d80d57c3.jpg
+
 Sniper Milestone 3,16.399999618530273,Achieve 17 of the achievements in the Sniper pack.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/8768533edd0bbb2e6d7318f7ea5d30b531c86094.jpg
+
 Spy Milestone 1,22.0,Achieve 5 of the achievements in the Spy pack.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/3611c5090d5f7b0a3195019288660c88f0d7bb42.jpg
+
 Spy Milestone 2,17.700000762939453,Achieve 11 of the achievements in the Spy pack.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/eccef2e4337ae705848c4728ea546501bd0cf17b.jpg
+
 Spy Milestone 3,15.300000190734863,Achieve 17 of the achievements in the Spy pack.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/8768533edd0bbb2e6d7318f7ea5d30b531c86094.jpg
+
 Candy Coroner,12.300000190734863,Collect 20 Halloween pumpkins from dead players to unlock a hat.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/e0a08c4a19a93f352f7b9f83ca28bc853c3dceb5.jpg
+
 Ghastly Gibus Grab,28.399999618530273,Dominate a player wearing the Ghastly Gibus to earn your own.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/7d74930bffff0c213e7740ea927ad87e42e5a4b0.jpg
+
 Scared Stiff,13.199999809265137,Kill a player scared by a ghost.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/33a3da576e0f1e08ca72fa07a21f4af32a56fe99.jpg
+
 Attack o' Lantern,10.100000381469727,Cause the deaths of 5 players by exploding nearby pumpkin bombs.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/fd22e17cbc3e30e5d20b6ad1a37a804b9c3047fc.jpg
+
 Costume Contest,15.899999618530273,Kill a Spy disguised as your current class.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/89d0ada548faa8bb391137a577f53f36a8218f13.jpg
+
 Soldier Milestone 1,19.700000762939453,Achieve 5 of the achievements in the Soldier pack.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/204a66b7641d55194bb87d0d5a06d1c9b5a4c2fa.jpg
+
 Soldier Milestone 2,16.200000762939453,Achieve 11 of the achievements in the Soldier pack.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/5b47d0b78a4ab4f866cbbbe2758e255bfe979676.jpg
+
 Soldier Milestone 3,14.0,Achieve 17 of the achievements in the Soldier pack.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/342a0dfd403972200ccb00ed6b0c4c35ca190c8f.jpg
+
 Tri-Splatteral Damage,12.399999618530273,Kill 3 enemies with a single critical rocket.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/787d9acc9ea42304e05cd110af544470e42d28aa.jpg
+
 Death from Above,11.300000190734863,Rocket jump and kill 2 enemies before you land.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/3e23bc751869b53336e7d17604d65480c1176d22.jpg
+
 Dominator,11.399999618530273,Get 3 dominations in a single life.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/2e78aab3f49f51812bea351f137a2ba686d1210d.jpg
+
 War Crime and Punishment,23.899999618530273,In a single life, kill 3 enemies who have damaged a Medic that is healing you.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/51468bf80f7c23a7dbcf9e5b98954097fec9ec31.jpg
+
 Spray of Defeat,11.5,Use a grenade to gib a player.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/e84afe890de47d8e5e3fb76260c6763b59611d02.jpg
+
 Guns of the Navar0wned,13.5,Kill 5 Engineer sentries while you are standing outside of their range.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/e1c5aeed3324fa77c5e7bdac61d4a934baa3f670.jpg
+
 Mutually Assured Destruction,15.100000381469727,Kill an enemy sniper with a rocket after he kills you.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/231974b99702af192a5f2011c3c9add376a16a51.jpg
+
 Wings of Glory,21.600000381469727,Kill an enemy soldier while both you and the target are airborne.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/aa3d7f36172be1c248b6fb5ee56c611bcfd872ab.jpg
+
 Engineer to Eternity,15.899999618530273,Kill an Engineer as he repairs his sentry gun while it's under enemy fire.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c663b0fb1feaf726460dfd1eb3c976a8467ef2d3.jpg
+
 Trench Warfare,10.5,Kill your nemesis with a shovel.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/90406d4f9c1931ca0ac918acf1b4bfaa0c14cde7.jpg
+
 Bomb Squaddie,8.899999618530273,Destroy 10 sticky bombs with the shotgun in a single life.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/56917116c66a43d32b3d172347b773bbe067e3c0.jpg
+
 Where Eagles Dare,22.5,Get the highest possible rocket jump using jump and crouch.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/9f1da6531750a1b9c3b0b08a8077590788947a3c.jpg
+
 Banner of Brothers,8.399999618530273,Buff 5 steam friends at once with the Buff Banner.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c0a00ab7de347d77f8372923ebfad6cf7d46e6e4.jpg
+
 Screamin' Eagle,13.699999809265137,Kill 20 enemies from above.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/40acb8c057813734166d6b81314fb292f19e583e.jpg
+
 Crockets Are Such B.S.,19.200000762939453,Shoot two non-boosted crit rockets in a row.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/5d32614df8a5909da0f9384c910ae6aa968cb4d3.jpg
+
 Geneva Contravention,12.300000190734863,Kill 3 defenseless players after a single match has ended.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/7667fdc1e7f0f4162c73ced2f670dd6e5f5fb522.jpg
+
 Semper Fry,12.899999618530273,Kill 20 enemies while you are on fire.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ec6d1660c783a111fa5189a53f0a79b1fbdb0206.jpg
+
 The Longest Daze,9.5,Kill 5 stunned players.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/4fdcb1f703c029753e799393d5e9306e88447d1a.jpg
+
 Gore-a! Gore-a! Gore-a!,9.100000381469727,Provide the enemy with a freezecam of you taunting over 3 of their body parts.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ea83c08b2f20a713c3211932c77479e19d445e7d.jpg
+
 War Crime Spybunal,20.100000381469727,Kill a Spy who just backstabbed a teammate.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c86b046c0f68b79553e87293c77a9bd5d9096695.jpg
+
 Hamburger Hill,9.800000190734863,Defend a cap point 30 times.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/7f4cd49211ee762b545556e32c61d0bc73335292.jpg
+
 Frags of our Fathers,9.399999618530273,Gib 1000 people.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/24367d919acc6b5a6d21f0dde53235e63015a6c3.jpg
+
 Duty Bound,12.399999618530273,While rocket jumping kill an enemy with the Equalizer before you land or just after landing.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/55d8815e53e56c2cc8c0ff1d7ae5be048d2f3cfa.jpg
+
 The Boostie Boys,9.699999809265137,Buff 15 teammates with the Buff Banner in a single life.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/45764ee839aa2ef8f66965a5cf5d3ff33b42d231.jpg
+
 Out, Damned Scot!,8.0,Kill 500 enemy Demomen,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/f4c3f7e13eb0aa8d82ea132b273b9d5e0d1741b6.jpg
+
 Backdraft Dodger,17.5,Kill a Pyro who has airblasted one of your rockets in the last 10 seconds.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/b4ad937b5565a6d9f8ccfb75bbdf8260f9285e71.jpg
+
 Ain't Got Time to Bleed,9.899999618530273,Kill 3 players with the Equalizer in a single life without being healed.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/778964920d54f0893404aeb547c6b14fbff1ed33.jpg
+
 Near Death Experience,8.100000381469727,Kill 20 enemies with your Equalizer while you have less than 25 health.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c5cd5401ef274495de223e07b1750eea9f4ebd24.jpg
+
 For Whom the Shell Trolls,13.800000190734863,Bounce an opponent into the air with a rocket and then kill them with the shotgun before they land.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/38424910085f6002c5ef9ab5dbea17ff6c655978.jpg
+
 Death From Below,13.100000381469727,Kill 10 opponents who are airborne with the Direct Hit.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/072b37de8d734970cceb0ab15126284b4a91c377.jpg
+
 Worth a Thousand Words,9.899999618530273,Provide the enemy with a freezecam of your 21 gun salute.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/49be7570b7e58a45e2400758e20fe9dca55cc8fe.jpg
+
 Brothers in Harms,16.299999237060547,Kill 10 enemies while assisting or being assisted by another Soldier.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/44b1edda49d7c60e7de7e4c8f6f5381f3407a986.jpg
+
 Medals of Honor,9.0,Finish a round as an MVP on a team of 6 or more players 10 times.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/1a9e0cc17881d31bc5369012c24cf15b6268ea7e.jpg
+
 Ride of the Valkartie,12.0,Ride the cart for 30 seconds.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ed8eb5f37367daea93ef6ec9de6b5870c1b1f140.jpg
+
 S*M*A*S*H,9.699999809265137,Assist a Medic in exploding 5 enemies with a single ÜberCharge.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/bcb88c7f6fa435aa5faca9006168b102fe4a5d42.jpg
+
 Kilt in Action,8.0,Kill 500 enemy Soldiers,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d97827ed01303f88adc6d64c004ee04061625f04.jpg
+
 Tam O'Shatter,8.600000381469727,Destroy 5 enemy Engineer buildings during a single ÜberCharge from a Medic.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c50ec034b57bfdde469f945ca431f95ab8965f9b.jpg
+
 Shorn Connery,13.899999618530273,Decapitate a cloaked Spy.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/0fabf394379fb91d444056cb94f5fae65624f6c3.jpg
+
 Laddy Macdeth,13.699999809265137,Kill 50 enemies with direct hits from the Grenade Launcher.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ce6de25c93d3a37de7ba4fbe3e98bb1636ba9095.jpg
+
 Brainspotting,12.699999809265137,Decapitate 50 enemy players.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/504da86f77eab338366d9acbf865760f02aecece.jpg
+
 Left 4 Heads,12.300000190734863,Decapitate 4 players with only 10 seconds between each kill.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/5b44d1c8fac555c02ef643a1b6a2b69480700a89.jpg
+
 Well Plaid!,13.800000190734863,Kill 10 enemies while assisting or being assisted by another Demoman.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/2d0d8d1cb270be604a8d4b37b70325337a3e31a4.jpg
+
 Slammy Slayvis Woundya,10.600000381469727,Decapitate an enemy Soldier who is brandishing the Equalizer.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/e87c12edfc2f063368d37c5b2b77e8b3e5c2219a.jpg
+
 The Scottish Play,9.100000381469727,Get a melee kill while sticky jumping.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/3eb0341583a3822eef0e0893f6f21b24cae064cf.jpg
+
 Blind Fire,15.5,Destroy an Engineer building that you can't see with a direct hit from your Grenade Launcher.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/47f1938053cd1f8c9d907fc2b8a7bbbb083e239f.jpg
+
 Three Times a Laddy,10.100000381469727,Dominate 3 Engineers.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/108ac5f76eea8ef8b12a7679b9de4a7f1ef36661.jpg
+
 Loch Ness Bombster,10.5,Kill an enemy player with sticky bombs within 5 seconds of them teleporting.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/cc78bc3a3a63f9e22af616051504563db3c1ec15.jpg
+
 Double Mauled Scotch,9.600000381469727,Kill 2 people in a single sticky jump.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/6cd117cb51f539e2bb41e00e2ba5c862466d5c0c.jpg
+
 Caber Toss,29.700000762939453,Bounce an enemy into the air and kill them before they land.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/5a26af89a8d51b22f1d7665e5fc4163fc23f8904.jpg
+
 There Can Be Only One,13.0,Decapitate your nemesis.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/151211b70b1efea5b1a1159b608b5da6862598fc.jpg
+
 Tartan Spartan,7.199999809265137,Do 1 million points of total blast damage.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c82e949befb8e6cb83c048108f2c9164a1bcec7b.jpg
+
 Demoman Milestone 1,16.799999237060547,Achieve 5 of the achievements in the Demoman pack.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/b5bd880b6120319da75bcc593ce6a75c9b49d281.jpg
+
 Demoman Milestone 2,14.600000381469727,Achieve 11 of the achievements in the Demoman pack.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/aa25334e5e5f36ee7c924b7e9e19a81db76a5c76.jpg
+
 Demoman Milestone 3,13.100000381469727,Achieve 17 of the achievements in the Demoman pack.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/342a0dfd403972200ccb00ed6b0c4c35ca190c8f.jpg
+
 The Argyle Sap,9.800000190734863,Blow up an Engineer, his sentry gun, and his dispenser with a single Sticky bomb detonation.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/9cece99e1e51f957f02069ce79a8ec25e94c8630.jpg
+
 Scotch Guard,8.0,Kill 3 enemies capping or pushing a cart in a single Stickybomb detonation 3 separate times.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/2b25e3a9ff33cf2df3ae6ec3f1f3d2651da9e7ac.jpg
+
 Bravehurt,10.199999809265137,Kill 25 players defending a capture point or cart.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/e7575d20ab56b9296e1c3fb3cd2fb3268a51933c.jpg
+
 Cry Some Moor!,10.600000381469727,Destroy 50 buildings.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/4b64df1114aed1b3c5af2828da787ee737c9f2ae.jpg
+
 The Stickening,9.699999809265137,Kill 3 Heavies from full health with a single sticky bomb detonation.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/a325be4fb1bd5d1c3177a9dc680edc12fcbf3045.jpg
+
 Glasg0wned,12.300000190734863,Kill 25 Scouts and Pyros with the Grenade Launcher.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/1ddd249e6ce9192f7b2a4122246442b245983ea4.jpg
+
 Scotch Tap,11.699999809265137,Glory in the slaughter of your enemies using the Eyelander.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/8b3b89f3630c9a9767e162d974dd57b648c0c8cb.jpg
+
 The Targe Charge,13.399999618530273,Charge and kill someone with your shield bash.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/a734669ee35d76e6f5aecbb00f59f034c80b077e.jpg
+
 Beat Me Up, Scotty,14.100000381469727,Use a critical swing with the Eyelander to kill 5 enemy players.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/bc2d414b1e427aa0afdfab59014e62a6bc079031.jpg
+
 Something Stickied This Way Comes,8.699999809265137,Kill 30 players with air burst sticky bombs.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/9266caff9ea77462343a71c41ae298565bce7969.jpg
+
 The High Road,9.300000190734863,Sticky jump onto a cap point and capture it.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/851bb4b13fc1ad5b60964e9e6570b36b35975bb4.jpg
+
 Bloody Merry,10.899999618530273,Provide an enemy player with a freeze cam of your smiling face.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/cdd45ac32d401c55ee14887800af6fd87ca96e7b.jpg
+
 Second Eye,9.199999809265137,Provide an enemy player with a freeze cam of you shaking your rump.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ae096e6eca4b266d646f6fc7b520030941b78cb2.jpg
+
 He Who Celt It,12.899999618530273,Use the Sticky Launcher to kill an enemy player via environmental damage.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/9a81eac808a46e2dfec9f7f3dd810c9d4fe1d6d1.jpg
+
 Robbed Royal,7.5,Destroy 100 enemy sticky bombs with the Scottish Resistance.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/b0e71736f76192a0ccdafed42743007512aa5840.jpg
+
 Highland Fling,12.600000381469727,Sticky jump a really long way...,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/473299758f1ddebbd9a8cf8184ee0bb088ca18c3.jpg
+
 Pipebagger,11.0,Kill at least three players with a single detonation of sticky bombs.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/7425a70072d0cbce596689d494d41efbb00fbf3e.jpg
+
 Spynal Tap,7.900000095367432,Kill 20 spies within 5 seconds of them sapping a friendly building.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/496309efd41704f0ba517f48a74814a4f2f0aa38.jpg
+
 Sticky Thump,9.399999618530273,Using the Scottish Resistance, kill 3 players in separate explosions without placing new sticky bombs.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d43097b53ce29b79f68582a8fec200e8c1137bb7.jpg
+
 Revengineering,13.800000190734863,Use a revenge crit to kill the enemy player that destroyed your sentry gun.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/fe4a46212c5c8d2e193e95627326b1257c8f4820.jpg
+
 Pownd on the Range,9.300000190734863,Kill 10 enemies outside the normal sentry gun range using the Wrangler.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/f74bd017eb4b799be71456251c9ff42fe47d6570.jpg
+
 Engineer Milestone 1,22.799999237060547,Achieve 5 of the achievements in the Engineer pack.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/fa96727c44f9c48100e626e83d3b77540c3c1866.jpg
+
 Engineer Milestone 2,17.0,Achieve 11 of the achievements in the Engineer pack.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/5c5fbf78c3b23c22542d7b841dbd7a9d3e84c719.jpg
+
 Engineer Milestone 3,14.0,Achieve 17 of the achievements in the Engineer pack.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/8e4bb3fed8bd6c096764e8db7813909baf684327.jpg
+
 Battle Rustler,12.0,Teleport 100 team members into battle.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/5a5a7fb7f90b8b48ffd468e4d7de44865e384944.jpg
+
 The Extinguished Gentleman,11.0,Have dispensers you built extinguish 20 burning players.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/4df5063bc0df9792a9f63c7ca03ae57f6bdbf248.jpg
+
 Search Engine,8.399999618530273,Kill 3 cloaked Spies with a sentry gun under control of your Wrangler.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/564d0a9e3b16f82183c544fe06bca846bf30370b.jpg
+
 Building Block,9.100000381469727,Have a sentry shielded by the Wrangler absorb 500 damage without being destroyed.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/080e95c178c209cd81b579a547ea14b32bd9b0cf.jpg
+
 Unforgiven,11.100000381469727,Kill 3 enemies with revenge crits without dying.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/81b71b7fbedf4cd1d2182c20bc3b691033f08964.jpg
+
 Quick Draw,13.600000381469727,Kill a spy and two sappers within 10 seconds.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/3dbcca6ddb26beea5bad87138d0b674c7e888bbd.jpg
+
 The Wrench Connection,16.600000381469727,Kill a disguised spy with your Wrench.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/956c92f32263fcec910a64964b99023b3b8e58d3.jpg
+
 Silent Pardner,10.5,Upgrade 50 buildings built by other team members.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/25f486f24467a067b2f6e296ebae7d995667bdcf.jpg
+
 Fistful of Sappers,9.5,Destroy 25 sappers on buildings built by other team members.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/1ec6b200281cbe00df84253822ef8e4b1bb12565.jpg
+
 Doc, Stock, and Barrel,18.700000762939453,Repair a sentry gun under fire while being healed by a Medic.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/0b9b564280d30525353f1710a98bbf9bc0d17b63.jpg
+
 Best Little Slaughterhouse in Texas,7.300000190734863,Rack up 5000 kills with your sentry guns.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/b020bf0508e9129ad7660be8372e86511e0e7168.jpg
+
 Frontier Justice,24.100000381469727,Have your sentry kill the enemy that just killed you within 10 seconds.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/865ad655982c8250bfab81ba8193910596d04bdb.jpg
+
 Six-String Stinger,9.899999618530273,Provide an enemy player with a freeze cam of your guitar playing skills.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/a26a7cf65d7146dd26494670816b6ebbbf7b0cf5.jpg
+
 Uncivil Engineer,26.299999237060547,Provide an enemy player with a freeze cam of you and the sentry that just killed them.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/2791206144ce2a2b7f1309de30c189e0cc24120e.jpg
+
 Texas Two-Step,19.5,Use your shotgun to finish off an enemy recently damaged by your sentry gun.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d3c7c1b592257eaa09e575f469bb6c20029e9922.jpg
+
 Doc Holiday,29.200000762939453,Have a dispenser heal 3 teammates at the same time.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/46a0cd5d52e26827759d4458af6c09855c64e481.jpg
+
 No Man's Land,10.100000381469727,Use a sentry gun to kill 25 enemy players that are capturing a point.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d397c5ff28f9598865f4759022a7eb59e5e89132.jpg
+
 Trade Secrets,8.199999809265137,Kill 20 players carrying the intelligence.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/f25b497c9da6a14a0895ea4a0347c156b3f1f4be.jpg
+
 Death Metal,9.0,Pick up 10,000 waste metal from pieces of destroyed buildings.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ef3f43570c99d4a4768f43a9e37d9f93063ab316.jpg
+
 Land Grab,24.200000762939453,Help a teammate construct a building.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/6a4c15d2f78ad39c2ec6636bc093a2d4b56aa0b4.jpg
+
 Get Along!,13.899999618530273,Manage to get to and then remove a sapper placed on your building while you were several meters away.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/cd0617091511b5726b18f422b7cb0355a0f6b37c.jpg
+
 How the Pests Was Gunned,7.400000095367432,Destroy 50 enemy stickybombs lying in range of friendly buildings.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/2317f1cebd8930a5723456a0af6d65346d4d0781.jpg
+
 Honky Tonk Man,10.600000381469727,Smash an enemy player's head in with your guitar.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/cd6d671071cd156c898083d6e246f499394ebfa4.jpg
+
 Breaking Morant,8.0,Kill 10 Snipers with a sentry gun under control of your Wrangler.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/15b31e6bc36c9a11f72ce703919b29e9c97d0c09.jpg
+
 Rio Grind,8.399999618530273,Perform 50 repairs and/or reloads on a Sentry gun being Wrangled by another Engineer.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/6b4f426f5c3cefba36d5c879e8d56f4d58bfa3bd.jpg
+
 Patent Protection,8.199999809265137,Destroy an enemy Engineer's sentry gun with a sentry under control of your Wrangler.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/2276bb264fdd4eb556a08b9dad44b7f31ebe180b.jpg
+
 If You Build It, They Will Die,19.700000762939453,Haul a level 3 sentry gun into a position where it achieves a kill shortly after being redeployed.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/0f155f86efbb2470901d50fcb07603a9ac693b35.jpg
+
 Texas Ranger,12.699999809265137,Haul buildings 1 km over your career.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/4b2c8fe6580693cbfa29e5a49121b291e1df6ec9.jpg
+
 Deputized,19.700000762939453,Get 10 assists with another Engineer where a sentry gun was involved in the kill.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/7c07bb62a45b959b851bea81895f0100a36646b9.jpg
+
 Drugstore Cowboy,8.0,Have dispensers you created dispense a combined amount of 100,000 health over your career.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/04fad49ba726ed455f34b64577b7c97595b03e03.jpg
+
 Circle the Wagons,6.900000095367432,Repair 50,000 damage to friendly buildings constructed by other players.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/276c1d51d318ff50685ace92cd40203372389303.jpg
+
 Built to Last,12.5,Help a single building tank over 2000 damage without being destroyed.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/59587c34180f590ef4360ea841e38e25e233eed2.jpg
+
 (Not So) Lonely Are the Brave,9.100000381469727,Keep a Heavy healed with your dispenser while he gains 5 kills.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/46063d679b05799c451e5b820543aa449ebe5bdf.jpg
+
 Sleepy Holl0WND,13.300000190734863,Kill the Horseless Headless Horsemann.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d9f04f91c667b46c1d2d6cd56afa90acd17b0178.jpg
+
 Masked Mann,11.899999618530273,Collect a Soul Gargoyle in Mann Manor.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/e848effc6e5717fcfea067d96a9374225cae582a.jpg
+
 Sackston Hale,8.600000381469727,Craft the Saxton Hale Mask.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/6ff94597696e9a236633466ab912eafaf49f7390.jpg
+
 Gored!,10.800000190734863,Collect the Horseless Headless Horsemann's Haunted Metal.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/21b1bf1f9de7df7b61241b1335088043a4c1c5ee.jpg
+
 That's a Wrap,13.699999809265137,Save your very first replay.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/e12de0fc44fdd08d7e1ae74db805b68d326a2ff3.jpg
+
 We Can Fix It In Post,10.0,While watching a replay, press space bar to enter the editor.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/b4c61dee9777c41d409a9f0fb131a73dfbbc927f.jpg
+
 Time For Your Close-Up, Mr. Hale,8.899999618530273,Render a replay into a movie.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/508d140e153b2db2b456d6e0a989625fb35a21fb.jpg
+
 Ready for Duty,16.200000762939453,Complete each class to unlock the next.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ae649834785b86b407c1a856b43cd95e9ec4dba2.jpg
+
 Riftwalker,26.200000762939453,Kill an enemy within 5 seconds of you traveling through an Engineer's teleporter.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/e8c90b021cb85cc9ffa64b28bbd7b3849b0b7e22.jpg
+
 Home Movie,8.600000381469727,Achieve 100 YouTube™ views for your movie.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/7e2420baaaf729be954daf5df4a4e9ac52c3ecc9.jpg
+
 Local Cinema Star,8.5,Achieve 1000 YouTube™ views for your movie.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/978772b2645f1cff3d8b9439fc3576ccef008d4e.jpg
+
 Indie Film Sensation,6.900000095367432,Achieve 10,000 YouTube™ views for your movie.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/4afc3614c5c5834791d1a3b5bd88fd8a7340e894.jpg
+
 Blockbuster,6.699999809265137,Achieve 100,000 YouTube™ views for your movie.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/dd7064afd2d6a4f7d88c44f277f44da4c372338f.jpg
+
 Star of My Own Show,10.600000381469727,Spend some time editing a replay.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/4d1b32cd09bd06a40ba84c2006200cad37433cb7.jpg
+
 Escape the Heat,24.700000762939453,Jump into a pool of refreshing water while on fire.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/6bcf1a1c0832ffe817a921569d5a47f8bbfb26b1.jpg
+
 Optical Defusion,11.600000381469727,Kill MONOCULUS!,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/a61057fa2f2799d4549884b2748b7bf7d4d0de71.jpg
+
 Dive Into a Good Book,10.5,Get to Loot Island and claim your reward!,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/17a6aaac41df6d62a6858f73d52443c96768c618.jpg
+
 Gift Grab,15.300000190734863,Collect three gifts dropped by opponents.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/19186cf9e0a868dc980508c8172d82f8b868a9bc.jpg
+
 Cap Trap,9.800000190734863,Kill an enemy who is capturing a control point with a critical hit.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/de7469c3e1eeb7d409dbb3bbc463f8539d03386e.jpg
+
 Foundry Force Five,8.300000190734863,Play in a game with five or more players from your Friends list.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/54b8f1a3b8ae3b390d81065bf3757aa2efa74618.jpg
+
 Two Minute Warring,10.600000381469727,Be part of a team that wins within two minutes.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/8b1fb30be7b7bfe5992ccabf2180e9abe7fe80af.jpg
+
 The Crucible,7.0,Win 137 Rounds.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/261ce641ff82995610f39bdb126c98c41b8a18db.jpg
+
 Five the Fast Way,8.399999618530273,Capture the final control point within five seconds of your team capturing the previous control point.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/4491091e6d6fff3e4139f8eaea8886e4c5b632a2.jpg
+
 Claim Jumper,8.5,Capture a control point within 12 seconds after exiting a teleporter.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/3e444798cfd4c29d53bd9789a3951062449bc335.jpg
+
 Terminated, Too,8.5,Kill a player by pushing them into the cauldron fire.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ac0cd64941891bd66ebb97ff8bfd84f6a3ab6fe3.jpg
+
 Real Steal,9.300000190734863,Win a round in which the enemy team has attempted to capture your final control point.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/87199f19271434e12f1d67ec8577c040a3b68ce6.jpg
+
 Classassin,8.399999618530273,Get one or more kills as all nine classes in one round.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/38cd1cffb503efe95fdf54d252ee33d3fb8d9e9c.jpg
+
 Raze the Roof,8.399999618530273,Kill two people on the roof of the center control point in a single life.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/e5d69c353384a86e1659cd3a415adbd544abeed0.jpg
+
 Dead Heat,8.899999618530273,Play through a back-and-forth battle for 15 control point captures.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/3cc1bedeffd471e83a8e528081af2cff47ff31da.jpg
+
 Foundry Milestone,10.100000381469727,Achieve 7 of the achievements in the Foundry pack.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/271da99b1e60267f11f117d627dd35b90482e526.jpg
+
 Steel Fragnolias,15.100000381469727,Complete all waves successfully in a mission.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_complete_pop_file_bw.jpg
+
 Mission Control,10.300000190734863,Pick up the Australium from its home position and capture it without dropping it.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/b266a392bcf36b58fbdb2ff5ba4a99d1e16fc9fa.jpg
+
 Flight Crew,8.0,Play in a game with 5 or more players from your Friends list.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/1f53730196c0571f3244e19282e11fc0e4a17e6d.jpg
+
 The Fight Stuff,6.699999809265137,Win 138 Rounds.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c6915d9f8009fa2e67f673e0942021b85c03a662.jpg
+
 Plan Nine to Outer Space,7.099999904632568,Launch the rocket as all 9 classes.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/66950fd64b54db5c9ff762b2b0377f00e30322df.jpg
+
 Failure to Launch,8.300000190734863,Kill 3 players riding the elevator within 10 seconds.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/8175a4b6ab6a8eb21521d90150a6b46e9d76b16b.jpg
+
 Rocket Booster,10.800000190734863,Win a round after the enemy team has opened the rocket lid.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/6c028b10fad1d8d5bb584598f87cef10b2cdf4c0.jpg
+
 Best Case Scenario,8.0,Kill 6 enemies carrying the Australium during the same round.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/0c45978cb0fa11e60aa3c8eca9322b3c9a690081.jpg
+
 Cap-ogee,8.699999809265137,Win a round with at least 5 teammates on the elevator.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/3cbff38aab9346c884b92310a2e0ab35e6bb5fdf.jpg
+
 Space Camp,9.0,Kill an enemy within the broken crate area while they attempt to pick up the neutral Australium.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/a8128ecf7c3bade9aa2b01ab10a4a80d6ff5a659.jpg
+
 Lift-offed,8.199999809265137,Push a player into the rocket's exhaust path at the end of the round.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/14ce26ce4afda1a62d9672a91a29f0940d07ff2f.jpg
+
 Escape Ferocity,12.100000381469727,Kill an enemy who has damaged the Australium carrier in the last 3 seconds.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/885f68c511c221413306aeb879eacd877dcee108.jpg
+
 Doomsday Milestone,9.699999809265137,Achieve 7 of the achievements in the Doomsday pack.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/0df76866244fa519672631bfcc2bab89d81640a1.jpg
+
 The Great Deflate,6.5,Kill 79 enemies who have Balloonicorn pets.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/3318507a5f1f583d0840371a93ae205d5e4b50f1.jpg
+
 BFF²,14.5,Have 2 BEST FRIENDS at the same time.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/f788a1e1b63a8221fca2cb9744f090409348ec0f.jpg
+
 Mass Hysteria,12.800000190734863,Have 6 teammates using Pyrovision at the same time.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/01514857e12e670bef97f053853027b5c2a7d692.jpg
+
 A Fresh Pair of Eyes,23.600000381469727,Dominate a player using the Pyrovision Goggles and earn your own pair!,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/f4727b536b170117a30420f948bb659838fcc4a7.jpg
+
 Full Spectrum Warrior,6.699999809265137,Ignite 3 enemy players using your Rainblower taunt.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/3f724208d4c27ebed40b91c0109bb65630b36600.jpg
+
 Wage Against the Machine,18.799999237060547,Earn a credit bonus at the end of a wave.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_earn_money_bonus_bw.jpg
+
 Frags to Riches,6.699999809265137,Earn all credit bonuses in an advanced difficulty mission.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_advanced_earn_all_bonuses_bw.jpg
+
 Fast Cache,17.299999237060547,Pick up a credit pile that is about to expire.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_pickup_money_about_to_expire_bw.jpg
+
 T-1000000,6.300000190734863,Collect 1,000,000 credits in your career.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_collect_money_grind_bw.jpg
+
 Brotherhood of Steel,6.400000095367432,Complete a mission with 5 people on your Friends List.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_play_game_friends_bw.jpg
+
 Hack of All Trades,6.400000095367432,Play an entire mission as a single class, and do this for every class.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_play_each_class_bw.jpg
+
 Clockwork Carnage,8.699999809265137,Destroy two tanks within 5 seconds of each other.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_destroy_two_tanks_bw.jpg
+
 Balls-E,10.100000381469727,Destroy the tank during the final seconds of the bomb being deployed.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_destroy_tank_while_deploying_bw.jpg
+
 Clockwork Conqueror,10.100000381469727,Destroy a tank within 20 seconds of its arrival.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_destroy_tank_quickly_bw.jpg
+
 Spam Blocker,6.699999809265137,During a wave, defend the hatch 10 times from robots about to deliver a bomb.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_defend_cap_bw.jpg
+
 .executioner,20.5,In a single wave, kill 15 bomb-carrying robots in a row before they level up.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_kill_bomb_carriers_bw.jpg
+
 Deus Ex Machina,14.199999809265137,Defeat a wave in an advanced difficulty mission without dying once.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_complete_wave_without_dying_bw.jpg
+
 Raid Array,7.599999904632568,Complete the Crash Course, Doe's Drill, and Mann-euvers missions.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_complete_tour_bw.jpg
+
 Ghost in the Machine,7.0,Use a canteen charged with 'Teleport to Spawn' and then kill the bomb carrier within 5 seconds.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_use_teleport_bottle_bw.jpg
+
 Kritical Terror,9.600000381469727,Use a canteen charged with 'Crit Boost' to destroy a giant robot.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_use_crit_bottle_bw.jpg
+
 German Engineering,8.600000381469727,Use a canteen charged with 'ÜberCharge' to destroy 15 robots.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_use_uber_bottle_bw.jpg
+
 Undelete,7.099999904632568,During a wave, use a canteen charged with 'Instant Building Upgrade' to build a new sentry gun within 3 seconds of your previous sentry gun's destruction.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_use_build_bottle_bw.jpg
+
 Shell Extension,8.800000190734863,During a wave, use a canteen charged with 'Ammo Reload' to refill an empty weapon slot.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_use_ammo_bottle_bw.jpg
+
 System Upgrade,10.5,Max out all primary weapon upgrades.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_max_primary_upgrades_bw.jpg
+
 Maximum Performance,10.5,Max out all resistances on a single class.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_max_player_resistances_bw.jpg
+
 Engine Block,9.800000190734863,Prevent the bomb from ever reaching an alarm zone during the final wave of an advanced difficulty mission.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_no_alarms_in_final_wave_bw.jpg
+
 Negative Charge,6.900000095367432,Kill 5 Medics that are ready to deploy an ÜberCharge in a wave.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_kill_medics_charged_bw.jpg
+
 Silicon Slaughter,6.300000190734863,Destroy 100,000 robots.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_kill_robot_grind_bw.jpg
+
 Metal Massacre,6.199999809265137,Destroy 1,000,000 robots.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_kill_robot_mega_grind_bw.jpg
+
 Ctrl + Assault + Delete,15.100000381469727,Destroy a sentry buster before it reaches its target.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_kill_sentry_buster_bw.jpg
+
 Sly Voltage,6.400000095367432,As a Spy, sap 10 robots at once.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_spy_sap_robots_bw.jpg
+
 Turbocharger,8.899999618530273,Buff 4 or more teammates as a Soldier at the same time in a single wave.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_soldier_buff_team_bw.jpg
+
 Heavy Mettle,6.5,During a wave, use rage as a Heavy to push a robot about to deliver the bomb.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_heavy_rage_push_deploying_robot_bw.jpg
+
 Vial Sharing,6.800000190734863,As a Medic, share your canteen 5 times in a single wave.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_medic_share_bottles_bw.jpg
+
 Tech Wrecker,6.599999904632568,As a Demoman, kill 10 robots in a single detonation.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_demo_group_kill_bw.jpg
+
 Do Androids Dream?,7.099999904632568,As a Scout, use the Sandman to mark 15 robots for death in a single wave.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_scout_mark_for_death_bw.jpg
+
 Spark Plugger,8.100000381469727,As a Sniper, kill 4 enemies simultaneously.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_sniper_kill_group_bw.jpg
+
 Hard Reset,6.5,As a Pyro, reset the bomb 3 times in a single wave.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_pyro_bomb_reset_bw.jpg
+
 Real Steal,11.899999618530273,As an Engineer, escape with your sentry as a sentry buster is about to detonate.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_mvm_engineer_escape_sentry_buster_bw.jpg
+
 A Lovely Vacation Spot,10.0,Get to Skull Island and claim your reward!,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/b6303af8203ce5148035a2cacf6bd33b0c61bb62.jpg
+
 Wizards Never Prosper,10.600000381469727,Kill MERASMUS!,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/aad49d1b90be81205e0cbd2e232fa20fe18c3c1e.jpg
+
 Helltower: Hell's Spells,9.800000190734863,Get and use a rare spell,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/b1c9f63abc32e41d24cd72fd7ece942381cd1e72.jpg
+
 Helltower: Competitive Spirit,5.900000095367432,Win 142 rounds,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/47c8906e391d099fb86b12e53d7cab9819b3f643.jpg
+
 Helltower: Mine Games,6.199999809265137,Perform 17 environmental kills in Hell,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/02ab21fbd300b7ec2cf75f57d9ea1015f6943503.jpg
+
 Helltower: Skeleton Coup,6.400000095367432,Kill 99 skeletons,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/7b62dd9e3e26dcb2152f4b7af8b1b330ad333fa8.jpg
+
 Helltower: Spelling Spree,6.5,Use spells to kill 25 players,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/997c635d20fc2fb5e57567339fddd8c06943e4b9.jpg
+
 Helltower: The Mann-tastic Four,7.400000095367432,Earn 4 of the Helltower achievements,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/836f04b92e9afd087ae27873f7c151f8ad787916.jpg
+
 Helltower: Hat Out of Hell,9.300000190734863,Get the loot from Skull Island in Hell,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/62f10a4f07c5b6393a399688c93a1643f18b6445.jpg
+
 Helltower: Hell on Wheels,6.5,Send Redmond/Blutarch to Hell 10 times,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/66872d260be9b439e7ecfde7dba87b8aca9a9059.jpg
+
 Stand And Deliver,5.699999809265137,Win 139 Rounds.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/8be766a033a60bbdc7d0ded6045c4816e1e36143.jpg
+
 Process Of Elimination,5.699999809265137,Win 140 Rounds.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/9113dc11e180a18d2fe36907e9da41e1b6ced612.jpg
+
 Snakewater Salesman,5.699999809265137,Win 141 Rounds.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/0723691bdda873d12f05358977b303855586db32.jpg
+
 Snakebit,7.099999904632568,Win a round in which the enemy team has attempted to capture your final control point.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/4a6f7f02e7343e25db716348f16c89b06a620b6c.jpg
+
 The Snakeout,6.699999809265137,Wipe the other team with 12 or more players on the server.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/720ad447a439aa9d42d54c821f3a8a38d327f240.jpg
+
 Mutually Air-Sured-Destruction,6.300000190734863,While rocket jumping, use a rocket to kill a rocket jumping enemy who also kills you with a rocket.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/6706abb617da105d8fd563dd0bc18ecf978465d7.jpg
+
 Log Jammin,5.800000190734863,Kill 15 enemies in the rafters above the central capture point.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/84bd7597073e4806f111f7282370d81078d99376.jpg
+
 Palace-Aid,7.5,Kill a tank before it crashes through the barrier in Rottenburg.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c67a2fe9c5492d7662f71245cf0d44992c28a619.jpg
+
 Crasher Crusher,6.599999904632568,Play an advanced wave in Rottenburg without the bomb entering the town.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/726eda799d20f0fedb4a8d3880c3f1f8e0ce8522.jpg
+
 Chippin' In,5.699999809265137,As a team, pit 10 guys in a single wave in Mannhattan.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/470039fc7231fd2794830322d72158b185014ddc.jpg
+
 Now Legal To Eat,5.800000190734863,Ooohh Ooh Ahh Ahhhh! ...in Mannhattan,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/97f95c297e453302fee04b35eff4d15612bc25e5.jpg
+
 Get Off My Lawn,5.900000095367432,Play an advanced mission without losing a single gate in Mannhattan.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/6b409262970981edc73f24971051a9833e7104b8.jpg
+
 Software Downgrade,6.400000095367432,As a team, kill 50 stunned radiowave robots in an advanced mission in Mannhattan.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/3a6074715402a552ca47ab03a80b7ef905fa3675.jpg
+
 Urban Strike,5.900000095367432,Kill 500 gate crashing robots in Mannhattan.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/d9cbe1e62ed39f59bf46b95a3beb845cdf1fb0c5.jpg
+
 Bot-Buster,6.400000095367432,Kill 5 robots in a single explosion from detonating a sentry buster.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/f7937ad3250b5f3963345c239af281ebc3f636e9.jpg
+
 A Bygone Century,5.599999904632568,Pit 100 enemies in Rottenburg.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/bba27e2d7c1a62b095d54aa7a351f9b9c157e132.jpg
+
 Bank On It,5.699999809265137,As a Sniper collect $500 in a mission without running over the currency packs.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ec2921ad12c6f41430a58023b7eecb84359934e3.jpg
+
 Wall Of Pain,6.300000190734863,Block 5,000 damage with the shield as a Medic in a single life.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/0fcfa60d000ad3004d8f5fe5e5bbdca6be588536.jpg
+
 Reanimator 2,6.400000095367432,Use one ÜberCharge to quickly revive 2 teammates within 5 seconds.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/72b32b6a7e546343ea7fff67b328d1d2ed4837a9.jpg
+
 Robot Flush,6.800000190734863,Kill 5 enemies with a single rocket while upgraded with rocket specialist.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/8141da37565cd46eb7af5c590fc5418d0b7b7c54.jpg
+
 Dazed And Defused,9.100000381469727,Stun 50 robots while upgraded with rocket specialist.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c2a4908d840d9eb5ed0e3a8bbe1042b303e9f1e8.jpg
+
 Nose Dive,6.300000190734863,Kill 10 parachuting players.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_parachute_kill_grind_bw.jpg
+
 Punching Bag,5.900000095367432,Melee kill 10 Snipers using The Classic.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_melee_kill_classic_rifle_sniper_bw.jpg
+
 Emergency Brake,13.800000190734863,Kill a charging Demoman.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_kill_charging_demo_bw.jpg
+
 Back in Business,5.400000095367432,While using the Back Scatter, kill 20 spies from behind.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_scout_backscatter_kill_spy_grind_bw.jpg
+
 Back 2 Back,5.599999904632568,While using the Back Scatter, kill a Heavy/Medic pair within 20 seconds of each other.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_scout_backscatter_kill_heavy_medic_pair_bw.jpg
+
 Severed Ties,5.199999809265137,While using the Back Scatter, kill 20 friends from behind.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_scout_backscatter_kill_friends_grind_bw.jpg
+
 Hipshot,5.599999904632568,While using The Classic, kill 10 enemies with a full charge, no-scope headshot.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_sniper_classic_rifle_noscope_headshot_bw.jpg
+
 Eagle Eye,5.5,While using The Classic, kill a rocket/grenade jumping enemy in midair with a full charge, no-scope headshot.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_sniper_classic_rifle_headshot_jumper_bw.jpg
+
 Prime Cuts,5.5,While using The Classic, gib all 9 classes during a single round.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_sniper_classic_rifle_gib_grind_bw.jpg
+
 Upper Hand,5.800000190734863,Kill 3 players during the same parachute deploy.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_soldier_parachute_kill_group_bw.jpg
+
 Project Excelsior,5.099999904632568,Parachute 19.47 miles.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_soldier_parachute_distance_bw.jpg
+
 Dogfight,5.699999809265137,Kill a parachuting player while parachuting.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_soldier_parachute_kill_parachute_bw.jpg
+
 Air Raid,5.5,Kill 3 players during the same parachute deploy.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_demoman_parachute_kill_group_bw.jpg
+
 Operation High Dive,5.099999904632568,Parachute 19.47 miles.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_demoman_parachute_distance_bw.jpg
+
 Flight Control,5.400000095367432,Kill a parachuting player while parachuting.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_demoman_parachute_kill_parachute_bw.jpg
+
 U-Turn,9.899999618530273,Kill an enemy that you couldn't see at the beginning of your charge.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_demoman_kill_player_you_didnt_see_bw.jpg
+
 Chain Reaction,7.099999904632568,Get 3 kills within 6 seconds using the Demoman charge.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_demoman_quick_kills_bw.jpg
+
 Head-On Collision,5.800000190734863,Kill a charging Demoman while charging.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_demoman_charge_kill_charging_demo_bw.jpg
+
 Fast Fingers,7.0,Backstab a Scout that is using the Back Scatter.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_spy_kill_backscatter_scout_bw.jpg
+
 Maximum Potential,7.199999809265137,Collect enough casualties to get the max clip for the Air Strike.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_soldier_airstrike_max_clip_bw.jpg
+
 Bombs Away!,5.699999809265137,Kill 3 people with the Air Strike during a single rocket jump.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_soldier_airstrike_group_kill_bw.jpg
+
 Flight Cancelled,5.199999809265137,Kill 25 parachuting players with a critical headshot.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_sniper_parachute_grind_bw.jpg
+
 Party Crasher,6.599999904632568,Kill 3 players who are doing the Conga within 5 seconds.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_taunt_conga_kill_bw.jpg
+
 Conga Line,8.100000381469727,Do the Conga with 10 or more players at the same time.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_taunt_conga_line_bw.jpg
+
 On The Rocks,6.099999904632568,Lose at Rock, Paper, Scissors 3 times in a row with Rock.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_taunt_rps_rock_bw.jpg
+
 Running With Scissors,6.099999904632568,Win at Rock, Paper, Scissors 3 times in a row with Scissors.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_taunt_rps_scissors_bw.jpg
+
 May I Cut In, Too?,5.400000095367432,Melee kill 10 players while they are doing the Square Dance taunt.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_taunt_dosido_melle_kill_bw.jpg
+
 Showboat,5.400000095367432,Do 10 partner taunts with a teammate while capturing a control point.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_taunt_while_capping_bw.jpg
+
 Flip-Kabob,5.5,Ignite a player that is being flipped by someone using the Flippin' Awesome taunt.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/tf_pyro_ignite_player_being_flipped_bw.jpg
+
 Carnival of Carnage: Bumper Crop,5.400000095367432,Kill 30 enemies by bumping their bumper cars off the tracks.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ed4812006a13f76aa9e4a8f963e12085c3950cfa.jpg
+
 Carnival of Carnage: Up All Night To Get Ducky,5.199999809265137,Collect 250 ducks.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/9fc57b7547c5d0a53402e361c93441a9cdd35799.jpg
+
 Carnival of Carnage: Hat Trick,6.599999904632568,Score 3 goals in bumper car soccer.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/ee8ae9092026448c306e9b1446a899e5a4ae1bad.jpg
+
 Carnival of Carnage: ReinKartnation,6.400000095367432,Respawn 30 ghost teammates during bumper car games.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/1c191786b06c27911ecdf6e5bc8876811ab5b6e3.jpg
+
 Carnival of Carnage: Arms Reduction,5.900000095367432,Kill 15 enemies while under the effect of Merasmus's melee-only curse.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/cef76ca1b96ca5bc3788cf1881af57d33af9b279.jpg
+
 Carnival of Carnage: Step Right Up,6.900000095367432,Earn 4 of the Carnival of Carnage achievements.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/c022de85f8a9716868b43cf48c2d2ba876a459f2.jpg
+
 Carnival of Carnage: Bumper to Bumper to Bumper,7.5,Win each of the 3 bumper car games to earn a bonus Halloween Gift Cauldron.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/3e804e0963edcf5760ecd6696c5b75c975f4f137.jpg
+
 The Power and the Glory,3.799999952316284,Win 142 Rounds.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/f9aca9543439d73e8ce3a2b8bec11c50cdf79379.jpg
+
 Balance of Power,6.300000190734863,Win a round in which the enemy team has attempted to capture your final control point.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/e6a6f2299a2af690bcb676cee512aba4aebeea82.jpg
+
 Power Trip,4.599999904632568,Capture the final control point within 15 seconds of your team capturing the previous control point.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/5553401df6683d55f0339bdd6e341e01f76d738a.jpg
+
 Power Down,4.099999904632568,Kill 15 enemies while they are capturing a point.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/3183a32c9e208e69d5407c6cc33f50ff65018eaf.jpg
+
 Wet Work,4.300000190734863,Kill five enemies while they are in the water.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/74ca9978f665d96d504ff2f7f4ef808bbf905a1c.jpg
+
 Tune Merasmus's Multi-Dimensional Television,3.200000047683716,Reveal the mystery of the PASS Time TV Room.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/165dd3dc615da375b66f8058fcb7e65676f6ee07.jpg
+
 Jackpot!,2.5999999046325684,Win 10 rounds playing PASS Time.,https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/440/e5e75bfc78f897e3bde0fa12a0e0a984ed83e159.jpg
+

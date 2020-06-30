@@ -81,6 +81,7 @@ public class SteamService {
 
                 printWriter.write(name + "," + percent + "," + description + "," + imageUrl);
                 printWriter.println();
+                printWriter.println();
             }
             printWriter.close();
         } catch (IOException e) {
