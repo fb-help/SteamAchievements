@@ -45,14 +45,13 @@ public class Main {
             }
 
             // CSV File Output
-            Writer output = null;
             File file = new File("Steam_Achievements.txt");
-            output = new PrintWriter(new FileWriter(file));
+            Writer output = new PrintWriter(new FileWriter(file));
 
             SteamService service = new SteamService(apiKey, appIDInt);
             List<SteamAchievement> achievementList = service.getAchievementList();
             //System.out.println("Main.main(): achievementList = [" + achievementList + "]");
-            output.write(achievementList);
+            //output.write(achievementList);
             output.close();
             System.out.println("File writing complete.");
 
