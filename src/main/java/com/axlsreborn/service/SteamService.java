@@ -13,6 +13,8 @@ import com.lukaspradel.steamapi.webapi.request.GetGlobalAchievementPercentagesFo
 import com.lukaspradel.steamapi.webapi.request.GetSchemaForGameRequest;
 import com.lukaspradel.steamapi.webapi.request.builders.SteamWebApiRequestFactory;
 
+import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
 import java.util.List;
@@ -62,22 +64,45 @@ public class SteamService {
             mapGlobalAchievements.put(achievementName, achievementPercent);
         }
 
-        for (Achievement schemaAchievement : schemaAchievements) {
-            String name = schemaAchievement.getDisplayName();
-            String description = schemaAchievement.getDescription();
-            double percent =
-                    Double.parseDouble(mapGlobalAchievements.get(schemaAchievement.getName()));
-            String imageUrl = schemaAchievement.getIcongray();
+        // Create a SteamAchievement and write to File
+        try {
+            PrintWriter printWriter = new PrintWriter("Steam_Achievements.txt");
 
-            SteamAchievement achievement =
-                    new SteamAchievement(name, percent, description, imageUrl);
-            achievementList.add(achievement);
+            for (Achievement schemaAchievement : schemaAchievements) {
+                String name = schemaAchievement.getDisplayName();
+                String description = schemaAchievement.getDescription();
+                double percent =
+                        Double.parseDouble(mapGlobalAchievements.get(schemaAchievement.getName()));
+                String imageUrl = schemaAchievement.getIcongray();
+
+                SteamAchievement achievement =
+                        new SteamAchievement(name, percent, description, imageUrl);
+                achievementList.add(achievement);
+
+                printWriter.write(name + "," + percent + "," + description + "," + imageUrl);
+                printWriter.println();
+            }
+            printWriter.close();
+        } catch (IOException e) {
+            e.printStackTrace();
         }
 
         return achievementList;
     }
-
 }
+
+//        for (Achievement schemaAchievement : schemaAchievements) {
+//            String name = schemaAchievement.getDisplayName();
+//            String description = schemaAchievement.getDescription();
+//            double percent =
+//                    Double.parseDouble(mapGlobalAchievements.get(schemaAchievement.getName()));
+//            String imageUrl = schemaAchievement.getIcongray();
+//
+//            SteamAchievement achievement =
+//                    new SteamAchievement(name, percent, description, imageUrl);
+//            achievementList.add(achievement);
+//        }
+//
 
 
 //        // Map for final output.
