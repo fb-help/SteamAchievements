@@ -12,6 +12,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="SteamAchievements" target="1.8" />
+      <module name="TF2Achievements2" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
