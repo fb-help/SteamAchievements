@@ -4,7 +4,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.Properties;
 
-public class ProjectPropertiesFile {
+public class ProjectProperties {
     public static final String KEY_STEAM_WEB_API_KEY = "steam.web.api_key";
     public static final String ID_STEAM_APP          = "steam.app_id";
     public static final String CSV_DELIMITER         = "csv.delimiter";
@@ -44,7 +44,7 @@ public class ProjectPropertiesFile {
                 System.err.println("Please add a delimiter to the properties file");
                 System.err.printf("csvDelimiter = [%s]\n", CSV_DELIMITER);
             }
-            if (filePathAchievements.length() == 0) {
+            if (filePathAchievements == null || filePathAchievements.isEmpty()) {
                 System.err.println("Please add a file path to save the Steam Achievements");
                 System.err.printf("filePathAchievements = [%s]\n", FILE_PATH_ACHIEVEMENTS);
             }

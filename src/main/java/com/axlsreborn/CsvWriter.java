@@ -5,11 +5,9 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.List;
 
-// git checkout dev
-// will switch to dev branch
 public class CsvWriter {
 
-    public static StringBuffer toCsvString(SteamAchievement steamAchievement,
+    public static StringBuffer csvSteamAchievement(SteamAchievement steamAchievement,
             String[] projectProperties) {
         String csvDelimiter = projectProperties[2];
         StringBuffer stringBuffer = new StringBuffer();
@@ -41,7 +39,7 @@ public class CsvWriter {
 
             for (SteamAchievement steamAchievement : steamAchievementsList) {
                 java.lang.String steamAchievementStr =
-                        CsvWriter.toCsvString(steamAchievement, projectProperties).toString();
+                        CsvWriter.csvSteamAchievement(steamAchievement, projectProperties).toString();
                 printWriter.write(steamAchievementStr);
             }
             printWriter.close();
