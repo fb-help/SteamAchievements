@@ -8,8 +8,7 @@ import java.util.List;
 public class CsvWriter {
 
     public static StringBuffer csvSteamAchievement(SteamAchievement steamAchievement,
-            String[] projectProperties) {
-        String csvDelimiter = projectProperties[2];
+                                                   char csvDelimiter) {
         StringBuffer stringBuffer = new StringBuffer();
 
         return stringBuffer
@@ -32,14 +31,13 @@ public class CsvWriter {
     }
 
     public static void writeFile(List<SteamAchievement> steamAchievementsList,
-            String[] projectProperties) {
+                                 String csvFilePath, char csvDelimiter) {
         try {
-            String filePathAchievements = projectProperties[3];
-            PrintWriter printWriter = new PrintWriter(filePathAchievements);
+            PrintWriter printWriter = new PrintWriter(csvFilePath);
 
             for (SteamAchievement steamAchievement : steamAchievementsList) {
                 java.lang.String steamAchievementStr =
-                        CsvWriter.csvSteamAchievement(steamAchievement, projectProperties).toString();
+                        CsvWriter.csvSteamAchievement(steamAchievement, csvDelimiter).toString();
                 printWriter.write(steamAchievementStr);
             }
             printWriter.close();

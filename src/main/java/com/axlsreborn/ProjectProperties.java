@@ -5,20 +5,20 @@ import java.io.IOException;
 import java.util.Properties;
 
 public class ProjectProperties {
-    public static final String KEY_STEAM_WEB_API_KEY = "steam.web.api_key";
-    public static final String ID_STEAM_APP          = "steam.app_id";
-    public static final String CSV_DELIMITER         = "csv.delimiter";
-    public static final String FILE_PATH_ACHIEVEMENTS = "file.path_achievements";
+    public static final String KEY_STEAM_WEB_API_KEY  = "steam.web.api_key";
+    public static final String ID_STEAM_APP           = "steam.app_id";
+    public static final String CSV_DELIMITER          = "csv.delimiter";
+    public static final String CSV_FILE_PATH          = "csv.file.path";
+    public static final String DEBUG_FLAG             = "debug.flag";
 
-    public static String[] readFile(String[] args) {
-        String[] projectProperties = new String[4];
 
-        if (args.length != 1) {
-            System.err.println("You must specify the path to the project properties file");
-            System.exit(1);
-        }
+    public static ProjectPropertiesArgs getProperties(String[] args) {
+        String apiKey = null;
+        int appId = 0;
+        char csvDelimiter = ' ';
+        String csvFilePath = null;
+        String debugFlag = null;
 
-        // Steam Web API Key and App ID File Input
         String propertiesPath = args[0];
         System.out.println("Main.main(): propertiesPath = [" + propertiesPath + "]");
         try {
@@ -26,37 +26,42 @@ public class ProjectProperties {
             Properties properties = new Properties();
             properties.load(fileReader);
 
-            String apiKey = properties.getProperty(KEY_STEAM_WEB_API_KEY);
-            String appID = properties.getProperty(ID_STEAM_APP);
-            String csvDelimiter = properties.getProperty(CSV_DELIMITER);
-            String filePathAchievements = properties.getProperty(FILE_PATH_ACHIEVEMENTS);
+            apiKey = properties.getProperty(KEY_STEAM_WEB_API_KEY);
+            String appIdStr = properties.getProperty(ID_STEAM_APP);
+            appId = Integer.parseInt(appIdStr);
+            csvDelimiter = properties.getProperty(CSV_DELIMITER).charAt(0);
+            csvFilePath = properties.getProperty(CSV_FILE_PATH);
+            debugFlag = properties.getProperty(DEBUG_FLAG).toUpperCase();
 
             System.out.println("Main.main(): apiKey = [" + apiKey + "]");
-            System.out.println("Main.main(): appID = [" + appID + "]");
+            System.out.println("Main.main(): appId = [" + appId + "]");
             System.out.println("Main.main(): csvDelimiter = [" + csvDelimiter + "]");
-            System.out.println("Main.main(): filePathAchievements = [" + filePathAchievements + "]");
+            System.out.println("Main.main(): csvFilePath = [" + csvFilePath + "]");
+            System.out.println("Main.main(): debugFlag = [" + debugFlag + "]");
 
-            if (apiKey == null) {
-                System.err.println("API Key is not defined in properties file");
-                System.err.printf("Expected key: [%s]\n", KEY_STEAM_WEB_API_KEY);
+            if (!debugFlag.equals("TRUE") && !debugFlag.equals("FALSE")) {
+                System.err.println("Please set debug flag to true or false");
+                System.err.printf("debugFlag = [%s]\n", DEBUG_FLAG);
             }
-            if (csvDelimiter.length() == 0) {
-                System.err.println("Please add a delimiter to the properties file");
-                System.err.printf("csvDelimiter = [%s]\n", CSV_DELIMITER);
-            }
-            if (filePathAchievements == null || filePathAchievements.isEmpty()) {
-                System.err.println("Please add a file path to save the Steam Achievements");
-                System.err.printf("filePathAchievements = [%s]\n", FILE_PATH_ACHIEVEMENTS);
-            }
-            projectProperties[0] = apiKey;
-            projectProperties[1] = appID;
-            projectProperties[2] = csvDelimiter;
-            projectProperties[3] = filePathAchievements;
 
+            if (debugFlag.equals("TRUE")) {
+                if (apiKey == null || apiKey.equals("")) {
+                    System.err.println("API Key is not defined in properties file");
+                    System.err.printf("Expected key: [%s]\n", KEY_STEAM_WEB_API_KEY);
+                }
+                if (csvDelimiter == ' ') {
+                    System.err.println("Please add a delimiter to the properties file");
+                    System.err.printf("csvDelimiter = [%s]\n", CSV_DELIMITER);
+                }
+                if (csvFilePath == null || csvFilePath.isEmpty()) {
+                    System.err.println("Please add a file path to save the Steam Achievements");
+                    System.err.printf("csvFilePath = [%s]\n", CSV_FILE_PATH);
+                }
+            }
         } catch (IOException e) {
             System.err.println("Error while reading properties file");
             System.err.println(e.getLocalizedMessage());
         }
-        return projectProperties;
+        return new ProjectPropertiesArgs(apiKey, appId, csvDelimiter, csvFilePath, debugFlag);
     }
 }
