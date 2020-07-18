@@ -2,8 +2,8 @@ package com.axlsreborn;
 
 public class ProjectPropertiesArgs {
     private final String apiKey;
-    private final int appId;
-    private final char csvDelimiter;
+    private final int    appId;
+    private final char   csvDelimiter;
     private final String csvFilePath;
     private final String debugFlag;
 

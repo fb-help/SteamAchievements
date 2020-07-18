@@ -1,6 +1,7 @@
 package com.axlsreborn;
 
 import com.axlsreborn.model.SteamAchievement;
+
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.List;
@@ -8,7 +9,7 @@ import java.util.List;
 public class CsvWriter {
 
     public static StringBuffer csvSteamAchievement(SteamAchievement steamAchievement,
-                                                   char csvDelimiter) {
+            char csvDelimiter) {
         StringBuffer stringBuffer = new StringBuffer();
 
         return stringBuffer
@@ -31,7 +32,8 @@ public class CsvWriter {
     }
 
     public static void writeFile(List<SteamAchievement> steamAchievementsList,
-                                 String csvFilePath, char csvDelimiter) {
+            String csvFilePath,
+            char csvDelimiter) {
         try {
             PrintWriter printWriter = new PrintWriter(csvFilePath);
 
