@@ -12,15 +12,14 @@ public class ProjectProperties {
     public static final String DEBUG_FLAG            = "debug.flag";
 
 
-    public static ProjectPropertiesArgs getProperties(String[] args) {
+    public static ProjectPropertiesArgs getProperties(String propertiesPath) {
         String apiKey = null;
         int appId = 0;
         String csvDelimiterStr;
         char csvDelimiter = ' ';
         String csvFilePath = null;
-        String debugFlag = null;
+        boolean debugFlag = false;
 
-        String propertiesPath = args[0];
         System.out.println("Main.main(): propertiesPath = [" + propertiesPath + "]");
         try {
             FileReader fileReader = new FileReader(propertiesPath);
@@ -32,7 +31,7 @@ public class ProjectProperties {
             appId = Integer.parseInt(appIdStr);
             csvDelimiterStr = properties.getProperty(CSV_DELIMITER);
             csvFilePath = properties.getProperty(CSV_FILE_PATH);
-            debugFlag = properties.getProperty(DEBUG_FLAG).toUpperCase();
+            String debugFlagStr = properties.getProperty(DEBUG_FLAG).toUpperCase();
 
             System.out.println("Main.main(): apiKey = [" + apiKey + "]");
             System.out.println("Main.main(): appId = [" + appId + "]");
@@ -40,12 +39,16 @@ public class ProjectProperties {
             System.out.println("Main.main(): csvFilePath = [" + csvFilePath + "]");
             System.out.println("Main.main(): debugFlag = [" + debugFlag + "]");
 
-            if (!debugFlag.equals("TRUE") && !debugFlag.equals("FALSE")) {
+            if (!debugFlagStr.equals("FALSE") && !debugFlagStr.equals("TRUE")) {
                 System.err.println("Please set debug flag to true or false");
                 System.err.printf("debugFlag = [%s]\n", DEBUG_FLAG);
             }
 
-            if (debugFlag.equals("TRUE")) {
+            if (debugFlagStr.equals("TRUE")) {
+                debugFlag = true;
+            }
+
+            if (debugFlag) {
                 if (apiKey == null || apiKey.equals("")) {
                     System.err.println("API Key is not defined in properties file");
                     System.err.printf("Expected key: [%s]\n", KEY_STEAM_WEB_API_KEY);

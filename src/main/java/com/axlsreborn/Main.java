@@ -10,16 +10,15 @@ import java.util.List;
 public class Main {
 
     public static void main(String[] args) {
-        ProjectPropertiesArgs projectPropertiesArgs = ProjectProperties.getProperties(args);
-        String apiKey = projectPropertiesArgs.getApiKey();
-        int appId = projectPropertiesArgs.getAppId();
-        char csvDelimiter = projectPropertiesArgs.getCsvDelimiter();
-        String csvFilePath = projectPropertiesArgs.getCsvFilePath();
-
         if (args.length != 1) {
             System.err.println("You must specify the path to the project properties file");
             System.exit(1);
         }
+        ProjectPropertiesArgs projectPropertiesArgs = ProjectProperties.getProperties(args[0]);
+        String apiKey = projectPropertiesArgs.getApiKey();
+        int appId = projectPropertiesArgs.getAppId();
+        char csvDelimiter = projectPropertiesArgs.getCsvDelimiter();
+        String csvFilePath = projectPropertiesArgs.getCsvFilePath();
 
         System.out.println("Start");
         List<SteamAchievement> steamAchievementsList = Main.getSteamAchievements(apiKey, appId);

@@ -5,9 +5,9 @@ public class ProjectPropertiesArgs {
     private final int    appId;
     private final char   csvDelimiter;
     private final String csvFilePath;
-    private final String debugFlag;
+    private final boolean debugFlag;
 
-    public ProjectPropertiesArgs(String apiKey, int appId, char csvDelimiter, String csvFilePath, String debugFlag) {
+    public ProjectPropertiesArgs(String apiKey, int appId, char csvDelimiter, String csvFilePath, boolean debugFlag) {
         this.apiKey = apiKey;
         this.appId = appId;
         this.csvDelimiter = csvDelimiter;
@@ -31,7 +31,7 @@ public class ProjectPropertiesArgs {
         return csvFilePath;
     }
 
-    public String getDebugFlag() {
+    public boolean getDebugFlag() {
         return debugFlag;
     }
 }
