@@ -15,7 +15,6 @@ public class ProjectProperties {
     public static ProjectPropertiesArgs getProperties(String propertiesPath) {
         String apiKey = null;
         int appId = 0;
-        String csvDelimiterStr;
         char csvDelimiter = ' ';
         String csvFilePath = null;
         boolean debugFlag = false;
@@ -29,15 +28,9 @@ public class ProjectProperties {
             apiKey = properties.getProperty(KEY_STEAM_WEB_API_KEY);
             String appIdStr = properties.getProperty(ID_STEAM_APP);
             appId = Integer.parseInt(appIdStr);
-            csvDelimiterStr = properties.getProperty(CSV_DELIMITER);
+            String csvDelimiterStr = properties.getProperty(CSV_DELIMITER);
             csvFilePath = properties.getProperty(CSV_FILE_PATH);
             String debugFlagStr = properties.getProperty(DEBUG_FLAG).toUpperCase();
-
-            System.out.println("Main.main(): apiKey = [" + apiKey + "]");
-            System.out.println("Main.main(): appId = [" + appId + "]");
-            System.out.println("Main.main(): csvDelimiter = [" + csvDelimiterStr + "]");
-            System.out.println("Main.main(): csvFilePath = [" + csvFilePath + "]");
-            System.out.println("Main.main(): debugFlag = [" + debugFlag + "]");
 
             if (!debugFlagStr.equals("FALSE") && !debugFlagStr.equals("TRUE")) {
                 System.err.println("Please set debug flag to true or false");
@@ -47,6 +40,12 @@ public class ProjectProperties {
             if (debugFlagStr.equals("TRUE")) {
                 debugFlag = true;
             }
+
+            System.out.println("Main.main(): apiKey = [" + apiKey + "]");
+            System.out.println("Main.main(): appId = [" + appId + "]");
+            System.out.println("Main.main(): csvDelimiter = [" + csvDelimiterStr + "]");
+            System.out.println("Main.main(): csvFilePath = [" + csvFilePath + "]");
+            System.out.println("Main.main(): debugFlag = [" + debugFlag + "]");
 
             if (debugFlag) {
                 if (apiKey == null || apiKey.equals("")) {
