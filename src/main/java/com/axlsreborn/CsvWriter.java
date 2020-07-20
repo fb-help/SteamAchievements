@@ -40,6 +40,5 @@ public class CsvWriter {
             printWriter.write(steamAchievementStr);
         }
         printWriter.close();
-        System.out.println("File writing complete.");
     }
 }
