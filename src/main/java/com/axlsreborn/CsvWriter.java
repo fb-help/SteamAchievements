@@ -8,26 +8,15 @@ import java.util.List;
 
 public class CsvWriter {
 
-    public static StringBuffer csvSteamAchievement(SteamAchievement steamAchievement, char csvDelimiter) {
-        StringBuffer stringBuffer = new StringBuffer();
-
-        return stringBuffer
-                .append("\"")
-                .append(steamAchievement.getAchievementName())
-                .append("\"")
-                .append(csvDelimiter)
-                .append("\"")
-                .append(steamAchievement.getAchievementPercent())
-                .append("\"")
-                .append(csvDelimiter)
-                .append("\"")
-                .append(steamAchievement.getAchievementDescription())
-                .append("\"")
-                .append(csvDelimiter)
-                .append("\"")
-                .append(steamAchievement.getAchievementIconUrl())
-                .append("\"")
-                .append("\n");
+    public static String toCsvString(SteamAchievement steamAchievement, char csvDelimiter) {
+        return String.format("%s %s %.2f %s \"%s\" %s %s %n",
+                steamAchievement.getAchievementName(),
+                csvDelimiter,
+                steamAchievement.getAchievementPercent(),
+                csvDelimiter,
+                steamAchievement.getAchievementDescription(),
+                csvDelimiter,
+                steamAchievement.getAchievementIconUrl());
     }
 
     public static void writeFile(List<SteamAchievement> steamAchievementsList, String csvFilePath, char csvDelimiter)
@@ -35,8 +24,7 @@ public class CsvWriter {
         PrintWriter printWriter = new PrintWriter(csvFilePath);
 
         for (SteamAchievement steamAchievement : steamAchievementsList) {
-            java.lang.String steamAchievementStr =
-                    CsvWriter.csvSteamAchievement(steamAchievement, csvDelimiter).toString();
+            java.lang.String steamAchievementStr = CsvWriter.toCsvString(steamAchievement, csvDelimiter).toString();
             printWriter.write(steamAchievementStr);
         }
         printWriter.close();
