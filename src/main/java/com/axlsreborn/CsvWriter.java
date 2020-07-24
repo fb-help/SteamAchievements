@@ -2,6 +2,8 @@ package com.axlsreborn;
 
 import com.axlsreborn.model.SteamAchievement;
 
+import org.apache.commons.lang.StringEscapeUtils;
+
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.util.List;
@@ -9,11 +11,13 @@ import java.util.List;
 public class CsvWriter {
 
     public static String toCsvString(SteamAchievement steamAchievement, char csvDelimiter) {
+        String getAchievementNameEscaped = StringEscapeUtils.escapeCsv(steamAchievement.getAchievementName());
+        String getAchievementPercentEscaped = StringEscapeUtils.escapeCsv(steamAchievement.getAchievementDescription());
         StringBuffer stringBuffer = new StringBuffer();
 
         stringBuffer
                 .append("\"")
-                .append(steamAchievement.getAchievementName())
+                .append(getAchievementNameEscaped)
                 .append("\"")
                 .append(csvDelimiter)
                 .append("\"")
@@ -21,7 +25,7 @@ public class CsvWriter {
                 .append("\"")
                 .append(csvDelimiter)
                 .append("\"")
-                .append(steamAchievement.getAchievementDescription())
+                .append(getAchievementPercentEscaped)
                 .append("\"")
                 .append(csvDelimiter)
                 .append("\"")
