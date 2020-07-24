@@ -8,10 +8,10 @@ import java.util.List;
 
 public class CsvWriter {
 
-    public static StringBuffer csvSteamAchievement(SteamAchievement steamAchievement, char csvDelimiter) {
+    public static String toCsvString(SteamAchievement steamAchievement, char csvDelimiter) {
         StringBuffer stringBuffer = new StringBuffer();
 
-        return stringBuffer
+        stringBuffer
                 .append("\"")
                 .append(steamAchievement.getAchievementName())
                 .append("\"")
@@ -26,17 +26,17 @@ public class CsvWriter {
                 .append(csvDelimiter)
                 .append("\"")
                 .append(steamAchievement.getAchievementIconUrl())
-                .append("\"")
-                .append("\n");
+                .append("\"\n");
+        return stringBuffer.toString();
     }
+
 
     public static void writeFile(List<SteamAchievement> steamAchievementsList, String csvFilePath, char csvDelimiter)
             throws FileNotFoundException {
         PrintWriter printWriter = new PrintWriter(csvFilePath);
 
         for (SteamAchievement steamAchievement : steamAchievementsList) {
-            java.lang.String steamAchievementStr =
-                    CsvWriter.csvSteamAchievement(steamAchievement, csvDelimiter).toString();
+            String steamAchievementStr = CsvWriter.toCsvString(steamAchievement, csvDelimiter);
             printWriter.write(steamAchievementStr);
         }
         printWriter.close();
