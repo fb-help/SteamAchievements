@@ -3,35 +3,20 @@ package com.axlsreborn;
 import com.axlsreborn.model.SteamAchievement;
 
 import org.apache.commons.lang.StringEscapeUtils;
+import org.apache.commons.lang.StringUtils;
 
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.util.List;
 
 public class CsvWriter {
-
     public static String toCsvString(SteamAchievement steamAchievement, char csvDelimiter) {
-        String getAchievementNameEscaped = StringEscapeUtils.escapeCsv(steamAchievement.getAchievementName());
-        String getAchievementPercentEscaped = StringEscapeUtils.escapeCsv(steamAchievement.getAchievementDescription());
-        StringBuffer stringBuffer = new StringBuffer();
-
-        stringBuffer
-                .append("\"")
-                .append(getAchievementNameEscaped)
-                .append("\"")
-                .append(csvDelimiter)
-                .append("\"")
-                .append(steamAchievement.getAchievementPercent())
-                .append("\"")
-                .append(csvDelimiter)
-                .append("\"")
-                .append(getAchievementPercentEscaped)
-                .append("\"")
-                .append(csvDelimiter)
-                .append("\"")
-                .append(steamAchievement.getAchievementIconUrl())
-                .append("\"\n");
-        return stringBuffer.toString();
+        return StringUtils.join(new String[]{
+                StringEscapeUtils.escapeCsv(steamAchievement.getAchievementName()),
+                steamAchievement.getAchievementPercent().toString(),
+                StringEscapeUtils.escapeCsv(steamAchievement.getAchievementDescription()),
+                steamAchievement.getAchievementIconUrl() + "\n"
+        }, csvDelimiter);
     }
 
 
