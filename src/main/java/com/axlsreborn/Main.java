@@ -24,11 +24,20 @@ public class Main {
             System.exit(2);
             return;
         }
+
         String apiKey = properties.getApiKey();
         int appId = properties.getAppId();
         char csvDelimiter = properties.getCsvDelimiter();
         String csvFilePath = properties.getCsvFilePath();
+        boolean csvFileOverwriteFlag = properties.getCsvFileOverwriteFlag();
+        boolean csvFileErrorFlag = properties.getCsvFileErrorFlag();
         boolean debugFlag = properties.getDebugFlag();
+
+        if (csvFileErrorFlag) {
+            System.err.println("Error writing file.");
+            System.exit(3);
+            return;
+        }
 
         System.out.println("Start");
 
@@ -39,7 +48,7 @@ public class Main {
         } catch (SteamApiException e) {
             System.err.println("Error getting Steam Achievements");
             System.err.println(e.getLocalizedMessage());
-            System.exit(3);
+            System.exit(4);
             return;
         }
 
@@ -49,7 +58,7 @@ public class Main {
 
         if (steamAchievementsList.isEmpty()) {
             System.err.println("Steam Achievement List is empty");
-            System.exit(4);
+            System.exit(5);
             return;
         }
 
@@ -57,7 +66,7 @@ public class Main {
             CsvWriter.writeFile(steamAchievementsList, csvFilePath, csvDelimiter);
         } catch (FileNotFoundException e) {
             System.err.println("Error writing Steam Achievements to file");
-            System.exit(5);
+            System.exit(6);
             return;
         }
 
