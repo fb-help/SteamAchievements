@@ -21,7 +21,6 @@ public class ProjectProperties {
     private final char csvDelimiter;
     private final String csvFilePath;
     private final boolean csvFileOverwriteFlag;
-    private final boolean csvFileErrorFlag;
     private final boolean debugFlag;
 
     public ProjectProperties(String propertiesPath) throws ProjectPropertiesException {
@@ -29,7 +28,6 @@ public class ProjectProperties {
         int appId;
         char csvDelimiter = ' ';
         String csvFilePath;
-        boolean csvFileErrorFlag = false;
         boolean csvFileOverwriteFlag = false;
         boolean debugFlag = false;
 
@@ -140,7 +138,6 @@ public class ProjectProperties {
             System.out.println("Main.main(): csvDelimiter = [" + csvDelimiterStr + "]");
             System.out.println("Main.main(): csvFilePath = [" + csvFilePath + "]");
             System.out.println("Main.main(): csvFileOverwriteFlag = [" + csvFileOverwriteFlag + "]");
-            System.out.println("Main.main(): csvFileErrorFlag = [" + csvFileErrorFlag + "]");
             System.out.println("Main.main(): debugFlag = [" + debugFlag + "]");
         }
 
@@ -149,7 +146,6 @@ public class ProjectProperties {
         this.csvDelimiter = csvDelimiter;
         this.csvFilePath = csvFilePath;
         this.csvFileOverwriteFlag = csvFileOverwriteFlag;
-        this.csvFileErrorFlag = csvFileErrorFlag;
         this.debugFlag = debugFlag;
     }
 
@@ -163,10 +159,6 @@ public class ProjectProperties {
 
     public char getCsvDelimiter() {
         return csvDelimiter;
-    }
-
-    public boolean getCsvFileErrorFlag() {
-        return csvFileErrorFlag;
     }
 
     public boolean getCsvFileOverwriteFlag() {
