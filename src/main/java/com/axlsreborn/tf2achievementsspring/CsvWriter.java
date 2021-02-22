@@ -13,6 +13,10 @@ public class CsvWriter {
 
         stringBuffer
                 .append("\"")
+                .append(steamAchievement.getAchievementId())
+                .append("\"")
+                .append(csvDelimiter)
+                .append("\"")
                 .append(steamAchievement.getAchievementName())
                 .append("\"")
                 .append(csvDelimiter)
