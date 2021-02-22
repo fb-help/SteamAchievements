@@ -22,7 +22,6 @@ public class SteamService {
     private final SteamWebApiClient apiClient;
     private final int               appID;
 
-
     public SteamService(String apiKey, int appID) {
         apiClient = new SteamWebApiClient.SteamWebApiClientBuilder(apiKey).build();
         this.appID = appID;
@@ -34,11 +33,14 @@ public class SteamService {
                 SteamWebApiRequestFactory.createGetGlobalAchievementPercentagesForAppRequest(appID);
         GetGlobalAchievementPercentagesForApp getGlobalAchievements =
                 apiClient.processRequest(request);
+        System.out.println(getGlobalAchievements);
 
         // GetSchemaForGame Request
         GetSchemaForGameRequest request2 =
                 SteamWebApiRequestFactory.createGetSchemaForGameRequest(appID);
         GetSchemaForGame getSchemaForGame = apiClient.processRequest(request2);
+        System.out.println(getSchemaForGame);
+
 
         // Gets Percentages from GetGlobalAchievementPercentagesForApp
         Achievementpercentages achievementpercentages =
@@ -62,16 +64,18 @@ public class SteamService {
             mapGlobalAchievements.put(achievementName, achievementPercent);
         }
 
+        int id = -1;
         // Create a SteamAchievement
         for (Achievement schemaAchievement : schemaAchievements) {
             String name = schemaAchievement.getDisplayName();
+            ++id;
             String description = schemaAchievement.getDescription();
             double percent =
                     Double.parseDouble(mapGlobalAchievements.get(schemaAchievement.getName()));
             String imageUrl = schemaAchievement.getIcongray();
 
             SteamAchievement achievement =
-                    new SteamAchievement(name, percent, description, imageUrl);
+                    new SteamAchievement(name, id, percent, description, imageUrl);
             achievementList.add(achievement);
         }
 
