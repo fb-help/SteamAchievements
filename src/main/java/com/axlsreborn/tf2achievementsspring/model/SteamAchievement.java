@@ -2,35 +2,37 @@ package com.axlsreborn.tf2achievementsspring.model;
 
 public class SteamAchievement {
 
-    private final String achievementName;
-    private final Double achievementPercent;
-    private final String achievementDescription;
-    private final String achievementIconUrl;
-    private final int achievementId;
+    private final int    id;
+    private final String name;
+    private final Double percent;
+    private final String description;
+    private final String iconUrl;
 
-    public SteamAchievement(String achievementName, int achievementId, Double achievementPercent, String achievementDescription, String achievementIconUrl) {
-        this.achievementName = achievementName;
-        this.achievementPercent = achievementPercent;
-        this.achievementDescription = achievementDescription;
-        this.achievementIconUrl = achievementIconUrl;
-        this.achievementId = achievementId;
+    public SteamAchievement(int id, String name, Double percent, String description, String iconUrl) {
+        this.name = name;
+        this.percent = percent;
+        this.description = description;
+        this.iconUrl = iconUrl;
+        this.id = id;
     }
 
-    public String getAchievementName() {
-        return achievementName;
+    public String getDescription() {
+        return description;
     }
 
-    public Double getAchievementPercent() {
-        return achievementPercent;
+    public String getIconUrl() {
+        return iconUrl;
     }
 
-    public String getAchievementDescription() {
-        return achievementDescription;
+    public int getId() {
+        return id;
     }
 
-    public String getAchievementIconUrl() {
-        return achievementIconUrl;
+    public String getName() {
+        return name;
     }
 
-    public int getAchievementId() { return achievementId; }
+    public Double getPercent() {
+        return percent;
+    }
 }

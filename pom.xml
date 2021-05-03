@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.axlsreborn</groupId>
 	<artifactId>tf2-achievements-spring</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>tf2-achievements-spring</name>
 	<description>TF2 achievements with Steam Web API</description>
 

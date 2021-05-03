@@ -33,8 +33,8 @@ public class Main {
 
         List<SteamAchievement> steamAchievementsList;
         try {
-            SteamService service = new SteamService(apiKey, appId);
-            steamAchievementsList = service.getAchievementList();
+            SteamService service = new SteamService(apiKey);
+            steamAchievementsList = service.getAchievementList(appId);
         } catch (SteamApiException e) {
             System.err.println("Error getting Steam Achievements");
             System.err.println(e.getLocalizedMessage());

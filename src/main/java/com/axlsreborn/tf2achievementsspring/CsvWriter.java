@@ -13,23 +13,23 @@ public class CsvWriter {
 
         stringBuffer
                 .append("\"")
-                .append(steamAchievement.getAchievementId())
+                .append(steamAchievement.getId())
                 .append("\"")
                 .append(csvDelimiter)
                 .append("\"")
-                .append(steamAchievement.getAchievementName())
+                .append(steamAchievement.getName())
                 .append("\"")
                 .append(csvDelimiter)
                 .append("\"")
-                .append(steamAchievement.getAchievementPercent())
+                .append(steamAchievement.getPercent())
                 .append("\"")
                 .append(csvDelimiter)
                 .append("\"")
-                .append(steamAchievement.getAchievementDescription())
+                .append(steamAchievement.getDescription())
                 .append("\"")
                 .append(csvDelimiter)
                 .append("\"")
-                .append(steamAchievement.getAchievementIconUrl())
+                .append(steamAchievement.getIconUrl())
                 .append("\"\n");
         return stringBuffer.toString();
     }
